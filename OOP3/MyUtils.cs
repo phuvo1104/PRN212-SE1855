@@ -14,7 +14,7 @@ namespace OOP3
         public static int TongTu1DenN(this int n)
         { 
             int sum =0;
-            for (int i = 1;1<=n;i++)
+            for (int i = 1;i<=n;i++)
             {
                 sum += i;
             }
@@ -31,10 +31,25 @@ namespace OOP3
                 for(int j = 0;j<arr.Length;j++)
                 {
                     int temp=arr[i];
-                    arr[j]=arr[i];
+                    arr[i]=arr[j];
                     arr[j]=temp;
                 }
             }
+        }
+        public static void TaoMang(this int[] arr)
+        {
+            Random random = new Random();
+            for (int i = 0; i < arr.Length; i++)
+            {
+                arr[i] = random.Next(100);
+            }
+        }
+        public static void XuatMang (this int[] arr)
+        {  foreach (int i in arr)
+            {
+                Console.WriteLine(i+"\t");
+            }
+            Console.WriteLine();
         }
     }
 }

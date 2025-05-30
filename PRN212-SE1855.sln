@@ -39,6 +39,8 @@ Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "OOP2_Reuse_as_Library", "OO
 EndProject
 Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "OOP4_Generic_Connection", "OOP4_Generic_Connection\OOP4_Generic_Connection.csproj", "{0C54D17F-5A78-4F17-8F3F-E165BBDE5E12}"
 EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "OOP5-Dictionary", "OOP5-Dictionary\OOP5-Dictionary.csproj", "{B48AC2EA-47A7-4CF3-A1B9-051417C404E9}"
+EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
 		Debug|Any CPU = Debug|Any CPU
@@ -117,6 +119,10 @@ Global
 		{0C54D17F-5A78-4F17-8F3F-E165BBDE5E12}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{0C54D17F-5A78-4F17-8F3F-E165BBDE5E12}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{0C54D17F-5A78-4F17-8F3F-E165BBDE5E12}.Release|Any CPU.Build.0 = Release|Any CPU
+		{B48AC2EA-47A7-4CF3-A1B9-051417C404E9}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{B48AC2EA-47A7-4CF3-A1B9-051417C404E9}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{B48AC2EA-47A7-4CF3-A1B9-051417C404E9}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{B48AC2EA-47A7-4CF3-A1B9-051417C404E9}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE

@@ -4,17 +4,22 @@ using System.Linq;
 using System.Text;
 using System.Threading.Tasks;
 
-namespace OOP5_Dictionary
+namespace DemoLinQToObject2
 {
-   public class Product
+    public class Product
     {
-        public int Id { get; set; }
         public string Name { get; set; }
-        public int Quantity { get; set; }
+        public int Id { get; set; }
+        public int  Quantity { get; set; }
         public int Price { get; set; }
+
         public override string ToString()
         {
             return $"{Id}\t{Name}\t{Quantity}\t{Price}";
+        }
+    public Product Clone()
+        {
+            return (Product)this.MemberwiseClone();
         }
     }
 }

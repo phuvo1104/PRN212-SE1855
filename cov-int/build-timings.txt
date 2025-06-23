@@ -1,0 +1,35 @@
+# Version: d59b675bea p-2024.6-push-53
+# Command Line: D:\cov-analysis-win64-2024.6.1\bin\cov-build.exe --dir cov-int msbuild PRN212-SE1855.sln /t:Rebuild
+timer                                    ms      calls
+------------------------------------------------------
+cov-build                            153156          1
+  create_or_open emit DB                  0          1
+    open emit DB                          0          1
+  add_string_to_table                    16          8
+  addEmitFileName                         0          1
+  addEnvironmentVars                      0          1
+    add_string_to_table                   0         96
+  Prepare capture                         0          1
+  parse_xml_config_file                  16          2
+  Running build command              133953          1
+  generate_generic_compiler_map        1297          1
+    handle_derived_compiler              15         16
+  SecurityDA                          16844          1
+  TUInfo::getPrimarySFRow                 0        550
+  (left over)                          1030
+
+activity                                 ms      calls
+------------------------------------------------------
+cov-build                            153156          1
+parse_xml_config_file                    16          2
+create_or_open emit DB                    0          1
+open emit DB                              0          1
+add_string_to_table                      16        104
+addEmitFileName                           0          1
+addEnvironmentVars                        0          1
+Prepare capture                           0          1
+Running build command                133953          1
+generate_generic_compiler_map          1297          1
+handle_derived_compiler                  15         16
+SecurityDA                            16844          1
+TUInfo::getPrimarySFRow                   0        550

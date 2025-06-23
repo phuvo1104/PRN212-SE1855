@@ -1,0 +1,4 @@
+Native Compiler invocation: c:/program files/microsoft visual studio/2022/community/msbuild/current/bin/roslyn/csc.exe /noconfig @C:\Users\phuvo\AppData\Local\Temp\MSBuildTemp\tmp1c5e2c87b8574bf1bacf2c14eba4be27.rsp
+Working directory: D:\VisualStudioSRC\prn212\FirstDegree
+Comptype: csc
+* Configuring c:\program files\microsoft visual studio\2022\community\msbuild\current\bin\roslyn\csc as a C# compiler

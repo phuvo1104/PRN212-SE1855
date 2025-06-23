@@ -1,0 +1,26 @@
+# Version: d59b675bea p-2024.6-push-53
+# Command Line: D:/cov-analysis-win64-2024.6.1/bin/cov-security-da.exe --dir D:/VisualStudioSRC/prn212/cov-int
+timer                                              ms      calls
+----------------------------------------------------------------
+cov_security_da::run                            55704          1
+  cov_security_da::doSecurityDA                 55688          1
+    Looking for translation units                  94          1
+    Computing links for translation units        9578          1
+    xfer symbol cache                            1766          1
+    Dump bytecode TUs                             719          1
+      dumpBytecode                                719          1
+    runSecurityDA                               43406          1
+      runDotNetSecurityDA                       43406          1
+    (left over)                                   125
+
+activity                                           ms      calls
+----------------------------------------------------------------
+cov_security_da::run                            55704          1
+cov_security_da::doSecurityDA                   55688          1
+Looking for translation units                      94          1
+Computing links for translation units            9578          1
+xfer symbol cache                                1766          1
+Dump bytecode TUs                                 719          1
+dumpBytecode                                      719          1
+runSecurityDA                                   43406          1
+runDotNetSecurityDA                             43406          1

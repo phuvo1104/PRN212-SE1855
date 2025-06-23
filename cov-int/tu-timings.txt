@@ -1,0 +1,1645 @@
+Translation unit:
+479 -> C:/Users/phuvo/.nuget/packages/system.data.sqlclient/4.8.1/ref/netcoreapp2.1/System.Data.SqlClient.dll (reference assembly)
+Translation unit:
+481 -> C:/Users/phuvo/.nuget/packages/system.security.permissions/4.5.0/ref/netstandard2.0/System.Security.Permissions.dll (reference assembly)
+Translation unit:
+482 -> C:/Users/phuvo/.nuget/packages/netstandard-system.data.linq/1.0.1/lib/netstandard2.0/Mindbox.Data.Linq.dll
+Translation unit:
+895 -> D:/VisualStudioSRC/prn212/Lucy_SaleManagement/obj/Debug/net8.0/Lucy_SaleManagement.AssemblyInfo.cs
+cov-emit-cs invocation time (seconds): 228
+cov-translate invocation time (seconds): 228
+cov-build invocation time (seconds): 704
+Translation unit:
+894 -> D:/VisualStudioSRC/prn212/Lucy_SaleManagement/obj/Debug/net8.0/.NETCoreApp,Version=v8.0.AssemblyAttributes.cs
+cov-emit-cs invocation time (seconds): 228
+cov-translate invocation time (seconds): 228
+cov-build invocation time (seconds): 704
+Translation unit:
+893 -> D:/VisualStudioSRC/prn212/Lucy_SaleManagement/obj/Debug/net8.0/Lucy_SaleManagement.GlobalUsings.g.cs
+cov-emit-cs invocation time (seconds): 228
+cov-translate invocation time (seconds): 228
+cov-build invocation time (seconds): 704
+Translation unit:
+892 -> D:/VisualStudioSRC/prn212/Lucy_SaleManagement/Program.cs
+cov-emit-cs invocation time (seconds): 228
+cov-translate invocation time (seconds): 228
+cov-build invocation time (seconds): 704
+Translation unit:
+891 -> D:/VisualStudioSRC/prn212/Lucy_SaleManagement/Lucy_SalesData.designer.cs
+cov-emit-cs invocation time (seconds): 228
+cov-translate invocation time (seconds): 228
+cov-build invocation time (seconds): 704
+Translation unit:
+745 -> D:/VisualStudioSRC/prn212/FirstDegree/obj/Debug/net8.0/FirstDegree.AssemblyInfo.cs
+cov-emit-cs invocation time (seconds): 18
+cov-translate invocation time (seconds): 20
+cov-build invocation time (seconds): 704
+Translation unit:
+744 -> D:/VisualStudioSRC/prn212/FirstDegree/obj/Debug/net8.0/.NETCoreApp,Version=v8.0.AssemblyAttributes.cs
+cov-emit-cs invocation time (seconds): 18
+cov-translate invocation time (seconds): 20
+cov-build invocation time (seconds): 704
+Translation unit:
+743 -> D:/VisualStudioSRC/prn212/FirstDegree/obj/Debug/net8.0/FirstDegree.GlobalUsings.g.cs
+cov-emit-cs invocation time (seconds): 18
+cov-translate invocation time (seconds): 20
+cov-build invocation time (seconds): 704
+Translation unit:
+742 -> D:/VisualStudioSRC/prn212/FirstDegree/Program.cs
+cov-emit-cs invocation time (seconds): 18
+cov-translate invocation time (seconds): 20
+cov-build invocation time (seconds): 704
+Translation unit:
+125 -> C:/Program Files/dotnet/packs/Microsoft.NETCore.App.Ref/8.0.17/ref/net8.0/System.Security.Cryptography.X509Certificates.dll
+Translation unit:
+129 -> C:/Program Files/dotnet/packs/Microsoft.NETCore.App.Ref/8.0.17/ref/net8.0/System.Security.SecureString.dll
+Translation unit:
+124 -> C:/Program Files/dotnet/packs/Microsoft.NETCore.App.Ref/8.0.17/ref/net8.0/System.Security.Cryptography.Primitives.dll
+Translation unit:
+123 -> C:/Program Files/dotnet/packs/Microsoft.NETCore.App.Ref/8.0.17/ref/net8.0/System.Security.Cryptography.OpenSsl.dll
+Translation unit:
+122 -> C:/Program Files/dotnet/packs/Microsoft.NETCore.App.Ref/8.0.17/ref/net8.0/System.Security.Cryptography.Encoding.dll
+Translation unit:
+121 -> C:/Program Files/dotnet/packs/Microsoft.NETCore.App.Ref/8.0.17/ref/net8.0/System.Security.Cryptography.Csp.dll
+Translation unit:
+120 -> C:/Program Files/dotnet/packs/Microsoft.NETCore.App.Ref/8.0.17/ref/net8.0/System.Runtime.dll (reference assembly)
+Translation unit:
+119 -> C:/Program Files/dotnet/packs/Microsoft.NETCore.App.Ref/8.0.17/ref/net8.0/System.Security.Cryptography.Cng.dll
+Translation unit:
+118 -> C:/Program Files/dotnet/packs/Microsoft.NETCore.App.Ref/8.0.17/ref/net8.0/System.Security.Cryptography.Algorithms.dll
+Translation unit:
+117 -> C:/Program Files/dotnet/packs/Microsoft.NETCore.App.Ref/8.0.17/ref/net8.0/System.Security.Claims.dll (reference assembly)
+Translation unit:
+126 -> C:/Program Files/dotnet/packs/Microsoft.NETCore.App.Ref/8.0.17/ref/net8.0/System.Security.Principal.dll
+Translation unit:
+127 -> C:/Program Files/dotnet/packs/Microsoft.NETCore.App.Ref/8.0.17/ref/net8.0/System.Security.Principal.Windows.dll (reference assembly)
+Translation unit:
+128 -> C:/Program Files/dotnet/packs/Microsoft.NETCore.App.Ref/8.0.17/ref/net8.0/System.Security.Cryptography.dll (reference assembly)
+Translation unit:
+110 -> C:/Program Files/dotnet/packs/Microsoft.NETCore.App.Ref/8.0.17/ref/net8.0/System.Runtime.Numerics.dll (reference assembly)
+Translation unit:
+130 -> C:/Program Files/dotnet/packs/Microsoft.NETCore.App.Ref/8.0.17/ref/net8.0/System.Security.dll
+Translation unit:
+131 -> C:/Program Files/dotnet/packs/Microsoft.NETCore.App.Ref/8.0.17/ref/net8.0/System.ServiceModel.Web.dll
+Translation unit:
+132 -> C:/Program Files/dotnet/packs/Microsoft.NETCore.App.Ref/8.0.17/ref/net8.0/System.ServiceProcess.dll
+Translation unit:
+133 -> C:/Program Files/dotnet/packs/Microsoft.NETCore.App.Ref/8.0.17/ref/net8.0/System.Text.Encoding.CodePages.dll (reference assembly)
+Translation unit:
+134 -> C:/Program Files/dotnet/packs/Microsoft.NETCore.App.Ref/8.0.17/ref/net8.0/System.Text.Encoding.Extensions.dll (reference assembly)
+Translation unit:
+135 -> C:/Program Files/dotnet/packs/Microsoft.NETCore.App.Ref/8.0.17/ref/net8.0/System.Text.Encodings.Web.dll (reference assembly)
+Translation unit:
+106 -> C:/Program Files/dotnet/packs/Microsoft.NETCore.App.Ref/8.0.17/ref/net8.0/System.Runtime.InteropServices.JavaScript.dll (reference assembly)
+Translation unit:
+97 -> C:/Program Files/dotnet/packs/Microsoft.NETCore.App.Ref/8.0.17/ref/net8.0/System.Reflection.dll
+Translation unit:
+98 -> C:/Program Files/dotnet/packs/Microsoft.NETCore.App.Ref/8.0.17/ref/net8.0/System.Resources.Reader.dll
+Translation unit:
+99 -> C:/Program Files/dotnet/packs/Microsoft.NETCore.App.Ref/8.0.17/ref/net8.0/System.Resources.ResourceManager.dll
+Translation unit:
+100 -> C:/Program Files/dotnet/packs/Microsoft.NETCore.App.Ref/8.0.17/ref/net8.0/System.Runtime.CompilerServices.Unsafe.dll
+Translation unit:
+101 -> C:/Program Files/dotnet/packs/Microsoft.NETCore.App.Ref/8.0.17/ref/net8.0/System.Resources.Writer.dll (reference assembly)
+Translation unit:
+102 -> C:/Program Files/dotnet/packs/Microsoft.NETCore.App.Ref/8.0.17/ref/net8.0/System.Runtime.Extensions.dll
+Translation unit:
+103 -> C:/Program Files/dotnet/packs/Microsoft.NETCore.App.Ref/8.0.17/ref/net8.0/System.Runtime.CompilerServices.VisualC.dll (reference assembly)
+Translation unit:
+104 -> C:/Program Files/dotnet/packs/Microsoft.NETCore.App.Ref/8.0.17/ref/net8.0/System.Runtime.Handles.dll
+Translation unit:
+105 -> C:/Program Files/dotnet/packs/Microsoft.NETCore.App.Ref/8.0.17/ref/net8.0/System.Runtime.InteropServices.RuntimeInformation.dll
+Translation unit:
+116 -> C:/Program Files/dotnet/packs/Microsoft.NETCore.App.Ref/8.0.17/ref/net8.0/System.Security.AccessControl.dll (reference assembly)
+Translation unit:
+107 -> C:/Program Files/dotnet/packs/Microsoft.NETCore.App.Ref/8.0.17/ref/net8.0/System.Runtime.InteropServices.dll (reference assembly)
+Translation unit:
+108 -> C:/Program Files/dotnet/packs/Microsoft.NETCore.App.Ref/8.0.17/ref/net8.0/System.Runtime.Loader.dll (reference assembly)
+Translation unit:
+109 -> C:/Program Files/dotnet/packs/Microsoft.NETCore.App.Ref/8.0.17/ref/net8.0/System.Runtime.Intrinsics.dll (reference assembly)
+Translation unit:
+142 -> C:/Program Files/dotnet/packs/Microsoft.NETCore.App.Ref/8.0.17/ref/net8.0/System.Threading.Tasks.Extensions.dll
+Translation unit:
+111 -> C:/Program Files/dotnet/packs/Microsoft.NETCore.App.Ref/8.0.17/ref/net8.0/System.Runtime.Serialization.Json.dll (reference assembly)
+Translation unit:
+112 -> C:/Program Files/dotnet/packs/Microsoft.NETCore.App.Ref/8.0.17/ref/net8.0/System.Runtime.Serialization.Primitives.dll (reference assembly)
+Translation unit:
+113 -> C:/Program Files/dotnet/packs/Microsoft.NETCore.App.Ref/8.0.17/ref/net8.0/System.Runtime.Serialization.Formatters.dll (reference assembly)
+Translation unit:
+114 -> C:/Program Files/dotnet/packs/Microsoft.NETCore.App.Ref/8.0.17/ref/net8.0/System.Runtime.Serialization.dll
+Translation unit:
+115 -> C:/Program Files/dotnet/packs/Microsoft.NETCore.App.Ref/8.0.17/ref/net8.0/System.Runtime.Serialization.Xml.dll (reference assembly)
+Translation unit:
+165 -> C:/Program Files/dotnet/packs/Microsoft.NETCore.App.Ref/8.0.17/ref/net8.0/WindowsBase.dll
+Translation unit:
+156 -> C:/Program Files/dotnet/packs/Microsoft.NETCore.App.Ref/8.0.17/ref/net8.0/System.Xml.Serialization.dll
+Translation unit:
+157 -> C:/Program Files/dotnet/packs/Microsoft.NETCore.App.Ref/8.0.17/ref/net8.0/System.Xml.ReaderWriter.dll (reference assembly)
+Translation unit:
+158 -> C:/Program Files/dotnet/packs/Microsoft.NETCore.App.Ref/8.0.17/ref/net8.0/System.Xml.XDocument.dll (reference assembly)
+Translation unit:
+159 -> C:/Program Files/dotnet/packs/Microsoft.NETCore.App.Ref/8.0.17/ref/net8.0/System.Xml.XPath.XDocument.dll (reference assembly)
+Translation unit:
+160 -> C:/Program Files/dotnet/packs/Microsoft.NETCore.App.Ref/8.0.17/ref/net8.0/System.Xml.XPath.dll (reference assembly)
+Translation unit:
+161 -> C:/Program Files/dotnet/packs/Microsoft.NETCore.App.Ref/8.0.17/ref/net8.0/System.Xml.XmlDocument.dll
+Translation unit:
+162 -> C:/Program Files/dotnet/packs/Microsoft.NETCore.App.Ref/8.0.17/ref/net8.0/System.Xml.XmlSerializer.dll (reference assembly)
+Translation unit:
+163 -> C:/Program Files/dotnet/packs/Microsoft.NETCore.App.Ref/8.0.17/ref/net8.0/System.Xml.dll
+Translation unit:
+164 -> C:/Program Files/dotnet/packs/Microsoft.NETCore.App.Ref/8.0.17/ref/net8.0/System.dll (reference assembly)
+Translation unit:
+155 -> C:/Program Files/dotnet/packs/Microsoft.NETCore.App.Ref/8.0.17/ref/net8.0/System.Xml.Linq.dll
+Translation unit:
+166 -> C:/Program Files/dotnet/packs/Microsoft.NETCore.App.Ref/8.0.17/ref/net8.0/mscorlib.dll (reference assembly)
+Translation unit:
+167 -> C:/Program Files/dotnet/packs/Microsoft.NETCore.App.Ref/8.0.17/ref/net8.0/netstandard.dll
+Translation unit:
+556 -> D:/VisualStudioSRC/prn212/Repositories/ProductRepositories.cs (no ASTs) (failure)
+cov-emit-cs invocation time (seconds): 15
+cov-build invocation time (seconds): 704
+Translation unit:
+921 -> D:/VisualStudioSRC/prn212/Repositories/CustomerRepositories.cs
+cov-emit-cs invocation time (seconds): 15
+cov-translate invocation time (seconds): 16
+cov-build invocation time (seconds): 704
+Translation unit:
+922 -> D:/VisualStudioSRC/prn212/Repositories/ICustomerRepositories.cs
+cov-emit-cs invocation time (seconds): 15
+cov-translate invocation time (seconds): 16
+cov-build invocation time (seconds): 704
+Translation unit:
+923 -> D:/VisualStudioSRC/prn212/Repositories/IProductRepositories.cs
+cov-emit-cs invocation time (seconds): 15
+cov-translate invocation time (seconds): 16
+cov-build invocation time (seconds): 704
+Translation unit:
+924 -> D:/VisualStudioSRC/prn212/Repositories/obj/Debug/net8.0/.NETCoreApp,Version=v8.0.AssemblyAttributes.cs
+cov-emit-cs invocation time (seconds): 15
+cov-translate invocation time (seconds): 16
+cov-build invocation time (seconds): 704
+Translation unit:
+925 -> D:/VisualStudioSRC/prn212/Repositories/obj/Debug/net8.0/Repositories.AssemblyInfo.cs
+cov-emit-cs invocation time (seconds): 15
+cov-translate invocation time (seconds): 16
+cov-build invocation time (seconds): 704
+Translation unit:
+926 -> D:/VisualStudioSRC/prn212/Repositories/obj/Debug/net8.0/Repositories.GlobalUsings.g.cs
+cov-emit-cs invocation time (seconds): 15
+cov-translate invocation time (seconds): 16
+cov-build invocation time (seconds): 704
+Translation unit:
+146 -> C:/Program Files/dotnet/packs/Microsoft.NETCore.App.Ref/8.0.17/ref/net8.0/System.Threading.Timer.dll
+Translation unit:
+137 -> C:/Program Files/dotnet/packs/Microsoft.NETCore.App.Ref/8.0.17/ref/net8.0/System.Text.Json.dll (reference assembly)
+Translation unit:
+138 -> C:/Program Files/dotnet/packs/Microsoft.NETCore.App.Ref/8.0.17/ref/net8.0/System.Text.RegularExpressions.dll (reference assembly)
+Translation unit:
+139 -> C:/Program Files/dotnet/packs/Microsoft.NETCore.App.Ref/8.0.17/ref/net8.0/System.Threading.Channels.dll (reference assembly)
+Translation unit:
+140 -> C:/Program Files/dotnet/packs/Microsoft.NETCore.App.Ref/8.0.17/ref/net8.0/System.Threading.Overlapped.dll (reference assembly)
+Translation unit:
+141 -> C:/Program Files/dotnet/packs/Microsoft.NETCore.App.Ref/8.0.17/ref/net8.0/System.Threading.Tasks.Dataflow.dll (reference assembly)
+Translation unit:
+6 -> C:/Program Files/dotnet/packs/Microsoft.NETCore.App.Ref/8.0.17/ref/net8.0/Microsoft.VisualBasic.dll
+Translation unit:
+143 -> C:/Program Files/dotnet/packs/Microsoft.NETCore.App.Ref/8.0.17/ref/net8.0/System.Threading.Tasks.dll
+Translation unit:
+144 -> C:/Program Files/dotnet/packs/Microsoft.NETCore.App.Ref/8.0.17/ref/net8.0/System.Threading.Tasks.Parallel.dll (reference assembly)
+Translation unit:
+145 -> C:/Program Files/dotnet/packs/Microsoft.NETCore.App.Ref/8.0.17/ref/net8.0/System.Threading.Thread.dll (reference assembly)
+Translation unit:
+136 -> C:/Program Files/dotnet/packs/Microsoft.NETCore.App.Ref/8.0.17/ref/net8.0/System.Text.Encoding.dll
+Translation unit:
+147 -> C:/Program Files/dotnet/packs/Microsoft.NETCore.App.Ref/8.0.17/ref/net8.0/System.Threading.ThreadPool.dll (reference assembly)
+Translation unit:
+148 -> C:/Program Files/dotnet/packs/Microsoft.NETCore.App.Ref/8.0.17/ref/net8.0/System.Threading.dll (reference assembly)
+Translation unit:
+149 -> C:/Program Files/dotnet/packs/Microsoft.NETCore.App.Ref/8.0.17/ref/net8.0/System.Transactions.Local.dll (reference assembly)
+Translation unit:
+150 -> C:/Program Files/dotnet/packs/Microsoft.NETCore.App.Ref/8.0.17/ref/net8.0/System.Transactions.dll
+Translation unit:
+151 -> C:/Program Files/dotnet/packs/Microsoft.NETCore.App.Ref/8.0.17/ref/net8.0/System.ValueTuple.dll
+Translation unit:
+152 -> C:/Program Files/dotnet/packs/Microsoft.NETCore.App.Ref/8.0.17/ref/net8.0/System.Web.HttpUtility.dll (reference assembly)
+Translation unit:
+153 -> C:/Program Files/dotnet/packs/Microsoft.NETCore.App.Ref/8.0.17/ref/net8.0/System.Web.dll
+Translation unit:
+154 -> C:/Program Files/dotnet/packs/Microsoft.NETCore.App.Ref/8.0.17/ref/net8.0/System.Windows.dll
+Translation unit:
+40 -> C:/Program Files/dotnet/packs/Microsoft.NETCore.App.Ref/8.0.17/ref/net8.0/System.Drawing.Primitives.dll (reference assembly)
+Translation unit:
+29 -> C:/Program Files/dotnet/packs/Microsoft.NETCore.App.Ref/8.0.17/ref/net8.0/System.Diagnostics.Contracts.dll (reference assembly)
+Translation unit:
+30 -> C:/Program Files/dotnet/packs/Microsoft.NETCore.App.Ref/8.0.17/ref/net8.0/System.Diagnostics.Debug.dll
+Translation unit:
+31 -> C:/Program Files/dotnet/packs/Microsoft.NETCore.App.Ref/8.0.17/ref/net8.0/System.Diagnostics.FileVersionInfo.dll (reference assembly)
+Translation unit:
+32 -> C:/Program Files/dotnet/packs/Microsoft.NETCore.App.Ref/8.0.17/ref/net8.0/System.Diagnostics.DiagnosticSource.dll (reference assembly)
+Translation unit:
+33 -> C:/Program Files/dotnet/packs/Microsoft.NETCore.App.Ref/8.0.17/ref/net8.0/System.Diagnostics.Process.dll (reference assembly)
+Translation unit:
+34 -> C:/Program Files/dotnet/packs/Microsoft.NETCore.App.Ref/8.0.17/ref/net8.0/System.Diagnostics.StackTrace.dll (reference assembly)
+Translation unit:
+35 -> C:/Program Files/dotnet/packs/Microsoft.NETCore.App.Ref/8.0.17/ref/net8.0/System.Diagnostics.TextWriterTraceListener.dll (reference assembly)
+Translation unit:
+36 -> C:/Program Files/dotnet/packs/Microsoft.NETCore.App.Ref/8.0.17/ref/net8.0/System.Diagnostics.Tools.dll
+Translation unit:
+37 -> C:/Program Files/dotnet/packs/Microsoft.NETCore.App.Ref/8.0.17/ref/net8.0/System.Diagnostics.TraceSource.dll (reference assembly)
+Translation unit:
+38 -> C:/Program Files/dotnet/packs/Microsoft.NETCore.App.Ref/8.0.17/ref/net8.0/System.Drawing.dll
+Translation unit:
+39 -> C:/Program Files/dotnet/packs/Microsoft.NETCore.App.Ref/8.0.17/ref/net8.0/System.Diagnostics.Tracing.dll (reference assembly)
+Translation unit:
+28 -> C:/Program Files/dotnet/packs/Microsoft.NETCore.App.Ref/8.0.17/ref/net8.0/System.Data.Common.dll (reference assembly)
+Translation unit:
+41 -> C:/Program Files/dotnet/packs/Microsoft.NETCore.App.Ref/8.0.17/ref/net8.0/System.Dynamic.Runtime.dll
+Translation unit:
+42 -> C:/Program Files/dotnet/packs/Microsoft.NETCore.App.Ref/8.0.17/ref/net8.0/System.Formats.Asn1.dll (reference assembly)
+Translation unit:
+43 -> C:/Program Files/dotnet/packs/Microsoft.NETCore.App.Ref/8.0.17/ref/net8.0/System.Globalization.Calendars.dll
+Translation unit:
+44 -> C:/Program Files/dotnet/packs/Microsoft.NETCore.App.Ref/8.0.17/ref/net8.0/System.Formats.Tar.dll (reference assembly)
+Translation unit:
+45 -> C:/Program Files/dotnet/packs/Microsoft.NETCore.App.Ref/8.0.17/ref/net8.0/System.Globalization.dll
+Translation unit:
+46 -> C:/Program Files/dotnet/packs/Microsoft.NETCore.App.Ref/8.0.17/ref/net8.0/System.Globalization.Extensions.dll
+Translation unit:
+47 -> C:/Program Files/dotnet/packs/Microsoft.NETCore.App.Ref/8.0.17/ref/net8.0/System.IO.Compression.Brotli.dll (reference assembly)
+Translation unit:
+48 -> C:/Program Files/dotnet/packs/Microsoft.NETCore.App.Ref/8.0.17/ref/net8.0/System.IO.Compression.FileSystem.dll
+Translation unit:
+49 -> C:/Program Files/dotnet/packs/Microsoft.NETCore.App.Ref/8.0.17/ref/net8.0/System.IO.Compression.ZipFile.dll (reference assembly)
+Translation unit:
+50 -> C:/Program Files/dotnet/packs/Microsoft.NETCore.App.Ref/8.0.17/ref/net8.0/System.IO.Compression.dll (reference assembly)
+Translation unit:
+17 -> C:/Program Files/dotnet/packs/Microsoft.NETCore.App.Ref/8.0.17/ref/net8.0/System.ComponentModel.DataAnnotations.dll
+Translation unit:
+5 -> C:/Program Files/dotnet/packs/Microsoft.NETCore.App.Ref/8.0.17/ref/net8.0/Microsoft.CSharp.dll (reference assembly)
+Translation unit:
+7 -> C:/Program Files/dotnet/packs/Microsoft.NETCore.App.Ref/8.0.17/ref/net8.0/Microsoft.VisualBasic.Core.dll (reference assembly)
+Translation unit:
+8 -> C:/Program Files/dotnet/packs/Microsoft.NETCore.App.Ref/8.0.17/ref/net8.0/Microsoft.Win32.Primitives.dll (reference assembly)
+Translation unit:
+9 -> C:/Program Files/dotnet/packs/Microsoft.NETCore.App.Ref/8.0.17/ref/net8.0/Microsoft.Win32.Registry.dll (reference assembly)
+Translation unit:
+10 -> C:/Program Files/dotnet/packs/Microsoft.NETCore.App.Ref/8.0.17/ref/net8.0/System.AppContext.dll
+Translation unit:
+11 -> C:/Program Files/dotnet/packs/Microsoft.NETCore.App.Ref/8.0.17/ref/net8.0/System.Buffers.dll
+Translation unit:
+12 -> C:/Program Files/dotnet/packs/Microsoft.NETCore.App.Ref/8.0.17/ref/net8.0/System.Collections.Concurrent.dll (reference assembly)
+Translation unit:
+13 -> C:/Program Files/dotnet/packs/Microsoft.NETCore.App.Ref/8.0.17/ref/net8.0/System.Collections.NonGeneric.dll (reference assembly)
+Translation unit:
+14 -> C:/Program Files/dotnet/packs/Microsoft.NETCore.App.Ref/8.0.17/ref/net8.0/System.Collections.Immutable.dll (reference assembly)
+Translation unit:
+15 -> C:/Program Files/dotnet/packs/Microsoft.NETCore.App.Ref/8.0.17/ref/net8.0/System.Collections.Specialized.dll (reference assembly)
+Translation unit:
+16 -> C:/Program Files/dotnet/packs/Microsoft.NETCore.App.Ref/8.0.17/ref/net8.0/System.Collections.dll (reference assembly)
+Translation unit:
+95 -> C:/Program Files/dotnet/packs/Microsoft.NETCore.App.Ref/8.0.17/ref/net8.0/System.Reflection.Metadata.dll (reference assembly)
+Translation unit:
+18 -> C:/Program Files/dotnet/packs/Microsoft.NETCore.App.Ref/8.0.17/ref/net8.0/System.ComponentModel.Annotations.dll (reference assembly)
+Translation unit:
+19 -> C:/Program Files/dotnet/packs/Microsoft.NETCore.App.Ref/8.0.17/ref/net8.0/System.ComponentModel.EventBasedAsync.dll (reference assembly)
+Translation unit:
+20 -> C:/Program Files/dotnet/packs/Microsoft.NETCore.App.Ref/8.0.17/ref/net8.0/System.ComponentModel.Primitives.dll (reference assembly)
+Translation unit:
+21 -> C:/Program Files/dotnet/packs/Microsoft.NETCore.App.Ref/8.0.17/ref/net8.0/System.Configuration.dll
+Translation unit:
+22 -> C:/Program Files/dotnet/packs/Microsoft.NETCore.App.Ref/8.0.17/ref/net8.0/System.ComponentModel.TypeConverter.dll (reference assembly)
+Translation unit:
+23 -> C:/Program Files/dotnet/packs/Microsoft.NETCore.App.Ref/8.0.17/ref/net8.0/System.ComponentModel.dll (reference assembly)
+Translation unit:
+24 -> C:/Program Files/dotnet/packs/Microsoft.NETCore.App.Ref/8.0.17/ref/net8.0/System.Console.dll (reference assembly)
+Translation unit:
+25 -> C:/Program Files/dotnet/packs/Microsoft.NETCore.App.Ref/8.0.17/ref/net8.0/System.Core.dll
+Translation unit:
+26 -> C:/Program Files/dotnet/packs/Microsoft.NETCore.App.Ref/8.0.17/ref/net8.0/System.Data.DataSetExtensions.dll
+Translation unit:
+27 -> C:/Program Files/dotnet/packs/Microsoft.NETCore.App.Ref/8.0.17/ref/net8.0/System.Data.dll (reference assembly)
+Translation unit:
+85 -> C:/Program Files/dotnet/packs/Microsoft.NETCore.App.Ref/8.0.17/ref/net8.0/System.Net.WebSockets.dll (reference assembly)
+Translation unit:
+74 -> C:/Program Files/dotnet/packs/Microsoft.NETCore.App.Ref/8.0.17/ref/net8.0/System.Net.Primitives.dll (reference assembly)
+Translation unit:
+75 -> C:/Program Files/dotnet/packs/Microsoft.NETCore.App.Ref/8.0.17/ref/net8.0/System.Net.Quic.dll (reference assembly)
+Translation unit:
+76 -> C:/Program Files/dotnet/packs/Microsoft.NETCore.App.Ref/8.0.17/ref/net8.0/System.Net.Requests.dll (reference assembly)
+Translation unit:
+77 -> C:/Program Files/dotnet/packs/Microsoft.NETCore.App.Ref/8.0.17/ref/net8.0/System.Net.Security.dll (reference assembly)
+Translation unit:
+78 -> C:/Program Files/dotnet/packs/Microsoft.NETCore.App.Ref/8.0.17/ref/net8.0/System.Net.ServicePoint.dll (reference assembly)
+Translation unit:
+79 -> C:/Program Files/dotnet/packs/Microsoft.NETCore.App.Ref/8.0.17/ref/net8.0/System.Net.Sockets.dll (reference assembly)
+Translation unit:
+80 -> C:/Program Files/dotnet/packs/Microsoft.NETCore.App.Ref/8.0.17/ref/net8.0/System.Net.WebClient.dll (reference assembly)
+Translation unit:
+81 -> C:/Program Files/dotnet/packs/Microsoft.NETCore.App.Ref/8.0.17/ref/net8.0/System.Net.WebHeaderCollection.dll (reference assembly)
+Translation unit:
+82 -> C:/Program Files/dotnet/packs/Microsoft.NETCore.App.Ref/8.0.17/ref/net8.0/System.Net.WebProxy.dll (reference assembly)
+Translation unit:
+83 -> C:/Program Files/dotnet/packs/Microsoft.NETCore.App.Ref/8.0.17/ref/net8.0/System.Net.WebSockets.Client.dll (reference assembly)
+Translation unit:
+84 -> C:/Program Files/dotnet/packs/Microsoft.NETCore.App.Ref/8.0.17/ref/net8.0/System.Net.dll
+Translation unit:
+52 -> C:/Program Files/dotnet/packs/Microsoft.NETCore.App.Ref/8.0.17/ref/net8.0/System.IO.FileSystem.Primitives.dll
+Translation unit:
+86 -> C:/Program Files/dotnet/packs/Microsoft.NETCore.App.Ref/8.0.17/ref/net8.0/System.Numerics.Vectors.dll (reference assembly)
+Translation unit:
+87 -> C:/Program Files/dotnet/packs/Microsoft.NETCore.App.Ref/8.0.17/ref/net8.0/System.ObjectModel.dll (reference assembly)
+Translation unit:
+88 -> C:/Program Files/dotnet/packs/Microsoft.NETCore.App.Ref/8.0.17/ref/net8.0/System.Numerics.dll
+Translation unit:
+89 -> C:/Program Files/dotnet/packs/Microsoft.NETCore.App.Ref/8.0.17/ref/net8.0/System.Reflection.DispatchProxy.dll (reference assembly)
+Translation unit:
+90 -> C:/Program Files/dotnet/packs/Microsoft.NETCore.App.Ref/8.0.17/ref/net8.0/System.Reflection.Emit.ILGeneration.dll (reference assembly)
+Translation unit:
+91 -> C:/Program Files/dotnet/packs/Microsoft.NETCore.App.Ref/8.0.17/ref/net8.0/System.Reflection.Emit.Lightweight.dll (reference assembly)
+Translation unit:
+92 -> C:/Program Files/dotnet/packs/Microsoft.NETCore.App.Ref/8.0.17/ref/net8.0/System.Reflection.Extensions.dll
+Translation unit:
+93 -> C:/Program Files/dotnet/packs/Microsoft.NETCore.App.Ref/8.0.17/ref/net8.0/System.Reflection.Emit.dll (reference assembly)
+Translation unit:
+94 -> C:/Program Files/dotnet/packs/Microsoft.NETCore.App.Ref/8.0.17/ref/net8.0/System.Reflection.Primitives.dll (reference assembly)
+Translation unit:
+96 -> C:/Program Files/dotnet/packs/Microsoft.NETCore.App.Ref/8.0.17/ref/net8.0/System.Reflection.TypeExtensions.dll (reference assembly)
+Translation unit:
+61 -> C:/Program Files/dotnet/packs/Microsoft.NETCore.App.Ref/8.0.17/ref/net8.0/System.IO.Pipes.dll (reference assembly)
+Translation unit:
+70 -> C:/Program Files/dotnet/packs/Microsoft.NETCore.App.Ref/8.0.17/ref/net8.0/System.Net.Http.dll (reference assembly)
+Translation unit:
+69 -> C:/Program Files/dotnet/packs/Microsoft.NETCore.App.Ref/8.0.17/ref/net8.0/System.Net.Mail.dll (reference assembly)
+Translation unit:
+68 -> C:/Program Files/dotnet/packs/Microsoft.NETCore.App.Ref/8.0.17/ref/net8.0/System.Net.HttpListener.dll (reference assembly)
+Translation unit:
+67 -> C:/Program Files/dotnet/packs/Microsoft.NETCore.App.Ref/8.0.17/ref/net8.0/System.Net.Http.Json.dll (reference assembly)
+Translation unit:
+66 -> C:/Program Files/dotnet/packs/Microsoft.NETCore.App.Ref/8.0.17/ref/net8.0/System.Memory.dll (reference assembly)
+Translation unit:
+65 -> C:/Program Files/dotnet/packs/Microsoft.NETCore.App.Ref/8.0.17/ref/net8.0/System.Linq.dll (reference assembly)
+Translation unit:
+64 -> C:/Program Files/dotnet/packs/Microsoft.NETCore.App.Ref/8.0.17/ref/net8.0/System.Linq.Queryable.dll (reference assembly)
+Translation unit:
+63 -> C:/Program Files/dotnet/packs/Microsoft.NETCore.App.Ref/8.0.17/ref/net8.0/System.Linq.Parallel.dll (reference assembly)
+Translation unit:
+62 -> C:/Program Files/dotnet/packs/Microsoft.NETCore.App.Ref/8.0.17/ref/net8.0/System.Linq.Expressions.dll (reference assembly)
+Translation unit:
+72 -> C:/Program Files/dotnet/packs/Microsoft.NETCore.App.Ref/8.0.17/ref/net8.0/System.Net.NetworkInformation.dll (reference assembly)
+Translation unit:
+60 -> C:/Program Files/dotnet/packs/Microsoft.NETCore.App.Ref/8.0.17/ref/net8.0/System.IO.dll
+Translation unit:
+59 -> C:/Program Files/dotnet/packs/Microsoft.NETCore.App.Ref/8.0.17/ref/net8.0/System.IO.UnmanagedMemoryStream.dll
+Translation unit:
+58 -> C:/Program Files/dotnet/packs/Microsoft.NETCore.App.Ref/8.0.17/ref/net8.0/System.IO.Pipes.AccessControl.dll (reference assembly)
+Translation unit:
+57 -> C:/Program Files/dotnet/packs/Microsoft.NETCore.App.Ref/8.0.17/ref/net8.0/System.IO.MemoryMappedFiles.dll (reference assembly)
+Translation unit:
+56 -> C:/Program Files/dotnet/packs/Microsoft.NETCore.App.Ref/8.0.17/ref/net8.0/System.IO.IsolatedStorage.dll (reference assembly)
+Translation unit:
+55 -> C:/Program Files/dotnet/packs/Microsoft.NETCore.App.Ref/8.0.17/ref/net8.0/System.IO.FileSystem.dll
+Translation unit:
+54 -> C:/Program Files/dotnet/packs/Microsoft.NETCore.App.Ref/8.0.17/ref/net8.0/System.IO.FileSystem.Watcher.dll (reference assembly)
+Translation unit:
+53 -> C:/Program Files/dotnet/packs/Microsoft.NETCore.App.Ref/8.0.17/ref/net8.0/System.IO.FileSystem.DriveInfo.dll (reference assembly)
+Translation unit:
+51 -> C:/Program Files/dotnet/packs/Microsoft.NETCore.App.Ref/8.0.17/ref/net8.0/System.IO.FileSystem.AccessControl.dll (reference assembly)
+Translation unit:
+73 -> C:/Program Files/dotnet/packs/Microsoft.NETCore.App.Ref/8.0.17/ref/net8.0/System.Net.Ping.dll (reference assembly)
+Translation unit:
+71 -> C:/Program Files/dotnet/packs/Microsoft.NETCore.App.Ref/8.0.17/ref/net8.0/System.Net.NameResolution.dll (reference assembly)
+Translation unit:
+520 -> C:/Program Files/dotnet/packs/Microsoft.WindowsDesktop.App.Ref/8.0.17/ref/net8.0/System.Security.Cryptography.Pkcs.dll (reference assembly)
+Translation unit:
+498 -> C:/Program Files/dotnet/packs/Microsoft.WindowsDesktop.App.Ref/8.0.17/ref/net8.0/Accessibility.dll
+Translation unit:
+519 -> C:/Program Files/dotnet/packs/Microsoft.WindowsDesktop.App.Ref/8.0.17/ref/net8.0/System.Resources.Extensions.dll (reference assembly)
+Translation unit:
+518 -> C:/Program Files/dotnet/packs/Microsoft.WindowsDesktop.App.Ref/8.0.17/ref/net8.0/System.Printing.dll
+Translation unit:
+517 -> C:/Program Files/dotnet/packs/Microsoft.WindowsDesktop.App.Ref/8.0.17/ref/net8.0/System.Drawing.Common.dll (reference assembly)
+Translation unit:
+516 -> C:/Program Files/dotnet/packs/Microsoft.WindowsDesktop.App.Ref/8.0.17/ref/net8.0/System.IO.Packaging.dll (reference assembly)
+Translation unit:
+515 -> C:/Program Files/dotnet/packs/Microsoft.WindowsDesktop.App.Ref/8.0.17/ref/net8.0/System.Diagnostics.PerformanceCounter.dll (reference assembly)
+Translation unit:
+514 -> C:/Program Files/dotnet/packs/Microsoft.WindowsDesktop.App.Ref/8.0.17/ref/net8.0/System.Diagnostics.EventLog.dll (reference assembly)
+Translation unit:
+513 -> C:/Program Files/dotnet/packs/Microsoft.WindowsDesktop.App.Ref/8.0.17/ref/net8.0/System.DirectoryServices.dll (reference assembly)
+Translation unit:
+512 -> C:/Program Files/dotnet/packs/Microsoft.WindowsDesktop.App.Ref/8.0.17/ref/net8.0/System.Configuration.ConfigurationManager.dll (reference assembly)
+Translation unit:
+511 -> C:/Program Files/dotnet/packs/Microsoft.WindowsDesktop.App.Ref/8.0.17/ref/net8.0/PresentationFramework.dll (reference assembly)
+Translation unit:
+510 -> C:/Program Files/dotnet/packs/Microsoft.WindowsDesktop.App.Ref/8.0.17/ref/net8.0/System.CodeDom.dll (reference assembly)
+Translation unit:
+509 -> C:/Program Files/dotnet/packs/Microsoft.WindowsDesktop.App.Ref/8.0.17/ref/net8.0/ReachFramework.dll (reference assembly)
+Translation unit:
+508 -> C:/Program Files/dotnet/packs/Microsoft.WindowsDesktop.App.Ref/8.0.17/ref/net8.0/PresentationUI.dll (reference assembly)
+Translation unit:
+507 -> C:/Program Files/dotnet/packs/Microsoft.WindowsDesktop.App.Ref/8.0.17/ref/net8.0/PresentationFramework.Royale.dll (reference assembly)
+Translation unit:
+506 -> C:/Program Files/dotnet/packs/Microsoft.WindowsDesktop.App.Ref/8.0.17/ref/net8.0/PresentationFramework.Luna.dll (reference assembly)
+Translation unit:
+505 -> C:/Program Files/dotnet/packs/Microsoft.WindowsDesktop.App.Ref/8.0.17/ref/net8.0/PresentationFramework.Classic.dll (reference assembly)
+Translation unit:
+504 -> C:/Program Files/dotnet/packs/Microsoft.WindowsDesktop.App.Ref/8.0.17/ref/net8.0/PresentationFramework.AeroLite.dll (reference assembly)
+Translation unit:
+503 -> C:/Program Files/dotnet/packs/Microsoft.WindowsDesktop.App.Ref/8.0.17/ref/net8.0/PresentationFramework.Aero2.dll (reference assembly)
+Translation unit:
+502 -> C:/Program Files/dotnet/packs/Microsoft.WindowsDesktop.App.Ref/8.0.17/ref/net8.0/PresentationCore.dll (reference assembly)
+Translation unit:
+501 -> C:/Program Files/dotnet/packs/Microsoft.WindowsDesktop.App.Ref/8.0.17/ref/net8.0/PresentationFramework.Aero.dll (reference assembly)
+Translation unit:
+500 -> C:/Program Files/dotnet/packs/Microsoft.WindowsDesktop.App.Ref/8.0.17/ref/net8.0/Microsoft.Win32.SystemEvents.dll (reference assembly)
+Translation unit:
+499 -> C:/Program Files/dotnet/packs/Microsoft.WindowsDesktop.App.Ref/8.0.17/ref/net8.0/Microsoft.Win32.Registry.AccessControl.dll (reference assembly)
+Translation unit:
+530 -> C:/Program Files/dotnet/packs/Microsoft.WindowsDesktop.App.Ref/8.0.17/ref/net8.0/UIAutomationClient.dll (reference assembly)
+Translation unit:
+533 -> C:/Program Files/dotnet/packs/Microsoft.WindowsDesktop.App.Ref/8.0.17/ref/net8.0/UIAutomationTypes.dll (reference assembly)
+Translation unit:
+915 -> D:/VisualStudioSRC/prn212/HelloWPF/obj/Debug/net8.0-windows/HelloWPF.AssemblyInfo.cs
+cov-emit-cs invocation time (seconds): 13
+cov-translate invocation time (seconds): 14
+cov-build invocation time (seconds): 704
+Translation unit:
+914 -> D:/VisualStudioSRC/prn212/HelloWPF/obj/Debug/net8.0-windows/HelloWPF.GlobalUsings.g.cs
+cov-emit-cs invocation time (seconds): 13
+cov-translate invocation time (seconds): 14
+cov-build invocation time (seconds): 704
+Translation unit:
+913 -> D:/VisualStudioSRC/prn212/HelloWPF/obj/Debug/net8.0-windows/.NETCoreApp,Version=v8.0.AssemblyAttributes.cs
+cov-emit-cs invocation time (seconds): 13
+cov-translate invocation time (seconds): 14
+cov-build invocation time (seconds): 704
+Translation unit:
+912 -> D:/VisualStudioSRC/prn212/HelloWPF/obj/Debug/net8.0-windows/App.g.cs
+cov-emit-cs invocation time (seconds): 13
+cov-translate invocation time (seconds): 14
+cov-build invocation time (seconds): 704
+Translation unit:
+911 -> D:/VisualStudioSRC/prn212/HelloWPF/obj/Debug/net8.0-windows/MainWindow.g.cs
+cov-emit-cs invocation time (seconds): 13
+cov-translate invocation time (seconds): 14
+cov-build invocation time (seconds): 704
+Translation unit:
+910 -> D:/VisualStudioSRC/prn212/HelloWPF/obj/Debug/net8.0-windows/LoginWindow.g.cs
+cov-emit-cs invocation time (seconds): 13
+cov-translate invocation time (seconds): 14
+cov-build invocation time (seconds): 704
+Translation unit:
+909 -> D:/VisualStudioSRC/prn212/HelloWPF/MainWindow.xaml.cs
+cov-emit-cs invocation time (seconds): 13
+cov-translate invocation time (seconds): 14
+cov-build invocation time (seconds): 704
+Translation unit:
+908 -> D:/VisualStudioSRC/prn212/HelloWPF/LoginWindow.xaml.cs
+cov-emit-cs invocation time (seconds): 13
+cov-translate invocation time (seconds): 14
+cov-build invocation time (seconds): 704
+Translation unit:
+907 -> D:/VisualStudioSRC/prn212/HelloWPF/AssemblyInfo.cs
+cov-emit-cs invocation time (seconds): 13
+cov-translate invocation time (seconds): 14
+cov-build invocation time (seconds): 704
+Translation unit:
+906 -> D:/VisualStudioSRC/prn212/HelloWPF/App.xaml.cs
+cov-emit-cs invocation time (seconds): 13
+cov-translate invocation time (seconds): 14
+cov-build invocation time (seconds): 704
+Translation unit:
+534 -> C:/Program Files/dotnet/packs/Microsoft.WindowsDesktop.App.Ref/8.0.17/ref/net8.0/WindowsBase.dll (reference assembly)
+Translation unit:
+521 -> C:/Program Files/dotnet/packs/Microsoft.WindowsDesktop.App.Ref/8.0.17/ref/net8.0/System.Security.Cryptography.ProtectedData.dll (reference assembly)
+Translation unit:
+532 -> C:/Program Files/dotnet/packs/Microsoft.WindowsDesktop.App.Ref/8.0.17/ref/net8.0/System.Xaml.dll (reference assembly)
+Translation unit:
+531 -> C:/Program Files/dotnet/packs/Microsoft.WindowsDesktop.App.Ref/8.0.17/ref/net8.0/UIAutomationProvider.dll (reference assembly)
+Translation unit:
+529 -> C:/Program Files/dotnet/packs/Microsoft.WindowsDesktop.App.Ref/8.0.17/ref/net8.0/UIAutomationClientSideProviders.dll (reference assembly)
+Translation unit:
+528 -> C:/Program Files/dotnet/packs/Microsoft.WindowsDesktop.App.Ref/8.0.17/ref/net8.0/System.Windows.Presentation.dll (reference assembly)
+Translation unit:
+527 -> C:/Program Files/dotnet/packs/Microsoft.WindowsDesktop.App.Ref/8.0.17/ref/net8.0/System.Windows.Input.Manipulations.dll (reference assembly)
+Translation unit:
+526 -> C:/Program Files/dotnet/packs/Microsoft.WindowsDesktop.App.Ref/8.0.17/ref/net8.0/System.Threading.AccessControl.dll (reference assembly)
+Translation unit:
+525 -> C:/Program Files/dotnet/packs/Microsoft.WindowsDesktop.App.Ref/8.0.17/ref/net8.0/System.Windows.Extensions.dll (reference assembly)
+Translation unit:
+524 -> C:/Program Files/dotnet/packs/Microsoft.WindowsDesktop.App.Ref/8.0.17/ref/net8.0/System.Windows.Controls.Ribbon.dll (reference assembly)
+Translation unit:
+523 -> C:/Program Files/dotnet/packs/Microsoft.WindowsDesktop.App.Ref/8.0.17/ref/net8.0/System.Security.Permissions.dll (reference assembly)
+Translation unit:
+522 -> C:/Program Files/dotnet/packs/Microsoft.WindowsDesktop.App.Ref/8.0.17/ref/net8.0/System.Security.Cryptography.Xml.dll (reference assembly)
+Translation unit:
+887 -> D:/VisualStudioSRC/prn212/DemoLinQToSQL/Program.cs
+cov-emit-cs invocation time (seconds): 11
+cov-translate invocation time (seconds): 12
+cov-build invocation time (seconds): 704
+Translation unit:
+772 -> D:/VisualStudioSRC/prn212/TypeparseAndRoot/obj/Debug/net8.0/.NETCoreApp,Version=v8.0.AssemblyAttributes.cs
+cov-emit-cs invocation time (seconds): 11
+cov-translate invocation time (seconds): 11
+cov-build invocation time (seconds): 704
+Translation unit:
+771 -> D:/VisualStudioSRC/prn212/TypeparseAndRoot/obj/Debug/net8.0/TypeparseAndRoot.GlobalUsings.g.cs
+cov-emit-cs invocation time (seconds): 11
+cov-translate invocation time (seconds): 11
+cov-build invocation time (seconds): 704
+Translation unit:
+770 -> D:/VisualStudioSRC/prn212/TypeparseAndRoot/Program.cs
+cov-emit-cs invocation time (seconds): 11
+cov-translate invocation time (seconds): 11
+cov-build invocation time (seconds): 704
+Translation unit:
+812 -> D:/VisualStudioSRC/prn212/OOP3/obj/Debug/net8.0/OOP3.AssemblyInfo.cs
+cov-emit-cs invocation time (seconds): 11
+cov-translate invocation time (seconds): 12
+cov-build invocation time (seconds): 704
+Translation unit:
+811 -> D:/VisualStudioSRC/prn212/OOP3/obj/Debug/net8.0/.NETCoreApp,Version=v8.0.AssemblyAttributes.cs
+cov-emit-cs invocation time (seconds): 11
+cov-translate invocation time (seconds): 12
+cov-build invocation time (seconds): 704
+Translation unit:
+810 -> D:/VisualStudioSRC/prn212/OOP3/obj/Debug/net8.0/OOP3.GlobalUsings.g.cs
+cov-emit-cs invocation time (seconds): 11
+cov-translate invocation time (seconds): 12
+cov-build invocation time (seconds): 704
+Translation unit:
+773 -> D:/VisualStudioSRC/prn212/TypeparseAndRoot/obj/Debug/net8.0/TypeparseAndRoot.AssemblyInfo.cs
+cov-emit-cs invocation time (seconds): 11
+cov-translate invocation time (seconds): 11
+cov-build invocation time (seconds): 704
+Translation unit:
+905 -> D:/VisualStudioSRC/prn212/HelloWPF/obj/Debug/net8.0-windows/HelloWPF_jlgoyc0g_wpftmp.GlobalUsings.g.cs
+cov-emit-cs invocation time (seconds): 11
+cov-translate invocation time (seconds): 12
+cov-build invocation time (seconds): 704
+Translation unit:
+904 -> D:/VisualStudioSRC/prn212/HelloWPF/obj/Debug/net8.0-windows/HelloWPF_jlgoyc0g_wpftmp.AssemblyInfo.cs
+cov-emit-cs invocation time (seconds): 11
+cov-translate invocation time (seconds): 12
+cov-build invocation time (seconds): 704
+Translation unit:
+886 -> D:/VisualStudioSRC/prn212/DemoLinQToSQL/MyStore.designer.cs
+cov-emit-cs invocation time (seconds): 11
+cov-translate invocation time (seconds): 12
+cov-build invocation time (seconds): 704
+Translation unit:
+786 -> D:/VisualStudioSRC/prn212/SapXepArray/Program.cs
+cov-emit-cs invocation time (seconds): 11
+cov-translate invocation time (seconds): 12
+cov-build invocation time (seconds): 704
+Translation unit:
+787 -> D:/VisualStudioSRC/prn212/SapXepArray/obj/Debug/net8.0/SapXepArray.GlobalUsings.g.cs
+cov-emit-cs invocation time (seconds): 11
+cov-translate invocation time (seconds): 12
+cov-build invocation time (seconds): 704
+Translation unit:
+788 -> D:/VisualStudioSRC/prn212/SapXepArray/obj/Debug/net8.0/.NETCoreApp,Version=v8.0.AssemblyAttributes.cs
+cov-emit-cs invocation time (seconds): 11
+cov-translate invocation time (seconds): 12
+cov-build invocation time (seconds): 704
+Translation unit:
+789 -> D:/VisualStudioSRC/prn212/SapXepArray/obj/Debug/net8.0/SapXepArray.AssemblyInfo.cs
+cov-emit-cs invocation time (seconds): 11
+cov-translate invocation time (seconds): 12
+cov-build invocation time (seconds): 704
+Translation unit:
+888 -> D:/VisualStudioSRC/prn212/DemoLinQToSQL/obj/Debug/net8.0/DemoLinQToSQL.GlobalUsings.g.cs
+cov-emit-cs invocation time (seconds): 11
+cov-translate invocation time (seconds): 12
+cov-build invocation time (seconds): 704
+Translation unit:
+809 -> D:/VisualStudioSRC/prn212/OOP3/Program.cs
+cov-emit-cs invocation time (seconds): 11
+cov-translate invocation time (seconds): 12
+cov-build invocation time (seconds): 704
+Translation unit:
+808 -> D:/VisualStudioSRC/prn212/OOP3/MyUtils.cs
+cov-emit-cs invocation time (seconds): 11
+cov-translate invocation time (seconds): 12
+cov-build invocation time (seconds): 704
+Translation unit:
+889 -> D:/VisualStudioSRC/prn212/DemoLinQToSQL/obj/Debug/net8.0/.NETCoreApp,Version=v8.0.AssemblyAttributes.cs
+cov-emit-cs invocation time (seconds): 11
+cov-translate invocation time (seconds): 12
+cov-build invocation time (seconds): 704
+Translation unit:
+890 -> D:/VisualStudioSRC/prn212/DemoLinQToSQL/obj/Debug/net8.0/DemoLinQToSQL.AssemblyInfo.cs
+cov-emit-cs invocation time (seconds): 11
+cov-translate invocation time (seconds): 12
+cov-build invocation time (seconds): 704
+Translation unit:
+871 -> D:/VisualStudioSRC/prn212/DemoAliasAndClone/obj/Debug/net8.0/DemoAliasAndClone.AssemblyInfo.cs
+cov-emit-cs invocation time (seconds): 10
+cov-translate invocation time (seconds): 11
+cov-build invocation time (seconds): 704
+Translation unit:
+793 -> D:/VisualStudioSRC/prn212/Loopmatrix/obj/Debug/net8.0/Loopmatrix.AssemblyInfo.cs
+cov-emit-cs invocation time (seconds): 10
+cov-translate invocation time (seconds): 12
+cov-build invocation time (seconds): 704
+Translation unit:
+870 -> D:/VisualStudioSRC/prn212/DemoAliasAndClone/obj/Debug/net8.0/.NETCoreApp,Version=v8.0.AssemblyAttributes.cs
+cov-emit-cs invocation time (seconds): 10
+cov-translate invocation time (seconds): 11
+cov-build invocation time (seconds): 704
+Translation unit:
+869 -> D:/VisualStudioSRC/prn212/DemoAliasAndClone/obj/Debug/net8.0/DemoAliasAndClone.GlobalUsings.g.cs
+cov-emit-cs invocation time (seconds): 10
+cov-translate invocation time (seconds): 11
+cov-build invocation time (seconds): 704
+Translation unit:
+868 -> D:/VisualStudioSRC/prn212/DemoAliasAndClone/Student.cs
+cov-emit-cs invocation time (seconds): 10
+cov-translate invocation time (seconds): 11
+cov-build invocation time (seconds): 704
+Translation unit:
+867 -> D:/VisualStudioSRC/prn212/DemoAliasAndClone/Program.cs
+cov-emit-cs invocation time (seconds): 10
+cov-translate invocation time (seconds): 11
+cov-build invocation time (seconds): 704
+Translation unit:
+790 -> D:/VisualStudioSRC/prn212/Loopmatrix/Program.cs
+cov-emit-cs invocation time (seconds): 10
+cov-translate invocation time (seconds): 12
+cov-build invocation time (seconds): 704
+Translation unit:
+791 -> D:/VisualStudioSRC/prn212/Loopmatrix/obj/Debug/net8.0/Loopmatrix.GlobalUsings.g.cs
+cov-emit-cs invocation time (seconds): 10
+cov-translate invocation time (seconds): 12
+cov-build invocation time (seconds): 704
+Translation unit:
+792 -> D:/VisualStudioSRC/prn212/Loopmatrix/obj/Debug/net8.0/.NETCoreApp,Version=v8.0.AssemblyAttributes.cs
+cov-emit-cs invocation time (seconds): 10
+cov-translate invocation time (seconds): 12
+cov-build invocation time (seconds): 704
+Translation unit:
+920 -> D:/VisualStudioSRC/prn212/BusinessObjects/obj/Debug/net8.0/BusinessObjects.AssemblyInfo.cs
+cov-emit-cs invocation time (seconds): 10
+cov-translate invocation time (seconds): 11
+cov-build invocation time (seconds): 704
+Translation unit:
+919 -> D:/VisualStudioSRC/prn212/BusinessObjects/obj/Debug/net8.0/.NETCoreApp,Version=v8.0.AssemblyAttributes.cs
+cov-emit-cs invocation time (seconds): 10
+cov-translate invocation time (seconds): 11
+cov-build invocation time (seconds): 704
+Translation unit:
+918 -> D:/VisualStudioSRC/prn212/BusinessObjects/obj/Debug/net8.0/BusinessObjects.GlobalUsings.g.cs
+cov-emit-cs invocation time (seconds): 10
+cov-translate invocation time (seconds): 11
+cov-build invocation time (seconds): 704
+Translation unit:
+917 -> D:/VisualStudioSRC/prn212/BusinessObjects/Product.cs
+cov-emit-cs invocation time (seconds): 10
+cov-translate invocation time (seconds): 11
+cov-build invocation time (seconds): 704
+Translation unit:
+916 -> D:/VisualStudioSRC/prn212/BusinessObjects/Customer.cs
+cov-emit-cs invocation time (seconds): 10
+cov-translate invocation time (seconds): 11
+cov-build invocation time (seconds): 704
+Translation unit:
+497 -> D:/VisualStudioSRC/prn212/HelloWPF/obj/Debug/net8.0-windows/HelloWPF_4wptqzsz_wpftmp.GlobalUsings.g.cs
+cov-emit-cs invocation time (seconds): 5
+cov-translate invocation time (seconds): 6
+cov-build invocation time (seconds): 187
+Translation unit:
+800 -> D:/VisualStudioSRC/prn212/OOP1/obj/Debug/net8.0/OOP1.AssemblyInfo.cs
+cov-emit-cs invocation time (seconds): 5
+cov-translate invocation time (seconds): 6
+cov-build invocation time (seconds): 704
+Translation unit:
+799 -> D:/VisualStudioSRC/prn212/OOP1/obj/Debug/net8.0/.NETCoreApp,Version=v8.0.AssemblyAttributes.cs
+cov-emit-cs invocation time (seconds): 5
+cov-translate invocation time (seconds): 6
+cov-build invocation time (seconds): 704
+Translation unit:
+785 -> D:/VisualStudioSRC/prn212/Tupels/obj/Debug/net8.0/Tupels.AssemblyInfo.cs
+cov-emit-cs invocation time (seconds): 5
+cov-translate invocation time (seconds): 6
+cov-build invocation time (seconds): 704
+Translation unit:
+784 -> D:/VisualStudioSRC/prn212/Tupels/obj/Debug/net8.0/.NETCoreApp,Version=v8.0.AssemblyAttributes.cs
+cov-emit-cs invocation time (seconds): 5
+cov-translate invocation time (seconds): 6
+cov-build invocation time (seconds): 704
+Translation unit:
+783 -> D:/VisualStudioSRC/prn212/Tupels/obj/Debug/net8.0/Tupels.GlobalUsings.g.cs
+cov-emit-cs invocation time (seconds): 5
+cov-translate invocation time (seconds): 6
+cov-build invocation time (seconds): 704
+Translation unit:
+798 -> D:/VisualStudioSRC/prn212/OOP1/obj/Debug/net8.0/OOP1.GlobalUsings.g.cs
+cov-emit-cs invocation time (seconds): 5
+cov-translate invocation time (seconds): 6
+cov-build invocation time (seconds): 704
+Translation unit:
+797 -> D:/VisualStudioSRC/prn212/OOP1/Program.cs
+cov-emit-cs invocation time (seconds): 5
+cov-translate invocation time (seconds): 6
+cov-build invocation time (seconds): 704
+Translation unit:
+766 -> D:/VisualStudioSRC/prn212/CallByReferent/Program.cs
+cov-emit-cs invocation time (seconds): 5
+cov-translate invocation time (seconds): 6
+cov-build invocation time (seconds): 704
+Translation unit:
+767 -> D:/VisualStudioSRC/prn212/CallByReferent/obj/Debug/net8.0/CallByReferent.GlobalUsings.g.cs
+cov-emit-cs invocation time (seconds): 5
+cov-translate invocation time (seconds): 6
+cov-build invocation time (seconds): 704
+Translation unit:
+794 -> D:/VisualStudioSRC/prn212/OOP1/Category.cs
+cov-emit-cs invocation time (seconds): 5
+cov-translate invocation time (seconds): 6
+cov-build invocation time (seconds): 704
+Translation unit:
+496 -> D:/VisualStudioSRC/prn212/HelloWPF/obj/Debug/net8.0-windows/HelloWPF_4wptqzsz_wpftmp.AssemblyInfo.cs
+cov-emit-cs invocation time (seconds): 5
+cov-translate invocation time (seconds): 6
+cov-build invocation time (seconds): 187
+Translation unit:
+795 -> D:/VisualStudioSRC/prn212/OOP1/Customer.cs
+cov-emit-cs invocation time (seconds): 5
+cov-translate invocation time (seconds): 6
+cov-build invocation time (seconds): 704
+Translation unit:
+796 -> D:/VisualStudioSRC/prn212/OOP1/Employee.cs
+cov-emit-cs invocation time (seconds): 5
+cov-translate invocation time (seconds): 6
+cov-build invocation time (seconds): 704
+Translation unit:
+885 -> D:/VisualStudioSRC/prn212/DemoLinQToObject2/obj/Debug/net8.0/DemoLinQToObject2.AssemblyInfo.cs
+cov-emit-cs invocation time (seconds): 5
+cov-translate invocation time (seconds): 6
+cov-build invocation time (seconds): 704
+Translation unit:
+884 -> D:/VisualStudioSRC/prn212/DemoLinQToObject2/obj/Debug/net8.0/.NETCoreApp,Version=v8.0.AssemblyAttributes.cs
+cov-emit-cs invocation time (seconds): 5
+cov-translate invocation time (seconds): 6
+cov-build invocation time (seconds): 704
+Translation unit:
+883 -> D:/VisualStudioSRC/prn212/DemoLinQToObject2/obj/Debug/net8.0/DemoLinQToObject2.GlobalUsings.g.cs
+cov-emit-cs invocation time (seconds): 5
+cov-translate invocation time (seconds): 6
+cov-build invocation time (seconds): 704
+Translation unit:
+882 -> D:/VisualStudioSRC/prn212/DemoLinQToObject2/Program.cs
+cov-emit-cs invocation time (seconds): 5
+cov-translate invocation time (seconds): 6
+cov-build invocation time (seconds): 704
+Translation unit:
+881 -> D:/VisualStudioSRC/prn212/DemoLinQToObject2/Product.cs
+cov-emit-cs invocation time (seconds): 5
+cov-translate invocation time (seconds): 6
+cov-build invocation time (seconds): 704
+Translation unit:
+880 -> D:/VisualStudioSRC/prn212/DemoLinQToObject2/ListProduct.cs
+cov-emit-cs invocation time (seconds): 5
+cov-translate invocation time (seconds): 6
+cov-build invocation time (seconds): 704
+Translation unit:
+769 -> D:/VisualStudioSRC/prn212/CallByReferent/obj/Debug/net8.0/CallByReferent.AssemblyInfo.cs
+cov-emit-cs invocation time (seconds): 5
+cov-translate invocation time (seconds): 6
+cov-build invocation time (seconds): 704
+Translation unit:
+768 -> D:/VisualStudioSRC/prn212/CallByReferent/obj/Debug/net8.0/.NETCoreApp,Version=v8.0.AssemblyAttributes.cs
+cov-emit-cs invocation time (seconds): 5
+cov-translate invocation time (seconds): 6
+cov-build invocation time (seconds): 704
+Translation unit:
+782 -> D:/VisualStudioSRC/prn212/Tupels/Program.cs
+cov-emit-cs invocation time (seconds): 5
+cov-translate invocation time (seconds): 6
+cov-build invocation time (seconds): 704
+Translation unit:
+807 -> D:/VisualStudioSRC/prn212/OOP2/obj/Debug/net8.0/OOP2.AssemblyInfo.cs
+cov-emit-cs invocation time (seconds): 4
+cov-translate invocation time (seconds): 4
+cov-build invocation time (seconds): 704
+Translation unit:
+823 -> D:/VisualStudioSRC/prn212/OOP5-Dictionary/Product.cs
+cov-emit-cs invocation time (seconds): 4
+cov-translate invocation time (seconds): 5
+cov-build invocation time (seconds): 704
+Translation unit:
+806 -> D:/VisualStudioSRC/prn212/OOP2/obj/Debug/net8.0/.NETCoreApp,Version=v8.0.AssemblyAttributes.cs
+cov-emit-cs invocation time (seconds): 4
+cov-translate invocation time (seconds): 4
+cov-build invocation time (seconds): 704
+Translation unit:
+813 -> D:/VisualStudioSRC/prn212/OOP2_Reuse_as_Library/Program.cs
+cov-emit-cs invocation time (seconds): 4
+cov-translate invocation time (seconds): 4
+cov-build invocation time (seconds): 704
+Translation unit:
+814 -> D:/VisualStudioSRC/prn212/OOP2_Reuse_as_Library/YourUtils.cs
+cov-emit-cs invocation time (seconds): 4
+cov-translate invocation time (seconds): 4
+cov-build invocation time (seconds): 704
+Translation unit:
+815 -> D:/VisualStudioSRC/prn212/OOP2_Reuse_as_Library/obj/Debug/net8.0/OOP2_Reuse_as_Library.GlobalUsings.g.cs
+cov-emit-cs invocation time (seconds): 4
+cov-translate invocation time (seconds): 4
+cov-build invocation time (seconds): 704
+Translation unit:
+816 -> D:/VisualStudioSRC/prn212/OOP2_Reuse_as_Library/obj/Debug/net8.0/.NETCoreApp,Version=v8.0.AssemblyAttributes.cs
+cov-emit-cs invocation time (seconds): 4
+cov-translate invocation time (seconds): 4
+cov-build invocation time (seconds): 704
+Translation unit:
+817 -> D:/VisualStudioSRC/prn212/OOP2_Reuse_as_Library/obj/Debug/net8.0/OOP2_Reuse_as_Library.AssemblyInfo.cs
+cov-emit-cs invocation time (seconds): 4
+cov-translate invocation time (seconds): 4
+cov-build invocation time (seconds): 704
+Translation unit:
+818 -> D:/VisualStudioSRC/prn212/OOP4_Generic_Connection/Program.cs
+cov-emit-cs invocation time (seconds): 4
+cov-translate invocation time (seconds): 4
+cov-build invocation time (seconds): 704
+Translation unit:
+819 -> D:/VisualStudioSRC/prn212/OOP4_Generic_Connection/obj/Debug/net8.0/OOP4_Generic_Connection.GlobalUsings.g.cs
+cov-emit-cs invocation time (seconds): 4
+cov-translate invocation time (seconds): 4
+cov-build invocation time (seconds): 704
+Translation unit:
+820 -> D:/VisualStudioSRC/prn212/OOP4_Generic_Connection/obj/Debug/net8.0/.NETCoreApp,Version=v8.0.AssemblyAttributes.cs
+cov-emit-cs invocation time (seconds): 4
+cov-translate invocation time (seconds): 4
+cov-build invocation time (seconds): 704
+Translation unit:
+821 -> D:/VisualStudioSRC/prn212/OOP4_Generic_Connection/obj/Debug/net8.0/OOP4_Generic_Connection.AssemblyInfo.cs
+cov-emit-cs invocation time (seconds): 4
+cov-translate invocation time (seconds): 4
+cov-build invocation time (seconds): 704
+Translation unit:
+822 -> D:/VisualStudioSRC/prn212/OOP5-Dictionary/Category.cs
+cov-emit-cs invocation time (seconds): 4
+cov-translate invocation time (seconds): 5
+cov-build invocation time (seconds): 704
+Translation unit:
+835 -> D:/VisualStudioSRC/prn212/chapter5/BuilderPattern/obj/Debug/net9.0/BuilderPattern.AssemblyInfo.cs
+cov-emit-cs invocation time (seconds): 4
+cov-translate invocation time (seconds): 5
+cov-build invocation time (seconds): 704
+Translation unit:
+776 -> D:/VisualStudioSRC/prn212/ParamForArray/obj/Debug/net8.0/.NETCoreApp,Version=v8.0.AssemblyAttributes.cs
+cov-emit-cs invocation time (seconds): 4
+cov-translate invocation time (seconds): 5
+cov-build invocation time (seconds): 704
+Translation unit:
+324 -> C:/Program Files/dotnet/packs/Microsoft.NETCore.App.Ref/9.0.6/ref/net9.0/System.Net.HttpListener.dll (reference assembly)
+Translation unit:
+759 -> D:/VisualStudioSRC/prn212/SecondDEgree/obj/Debug/net8.0/SecondDEgree.GlobalUsings.g.cs
+cov-emit-cs invocation time (seconds): 4
+cov-translate invocation time (seconds): 4
+cov-build invocation time (seconds): 704
+Translation unit:
+760 -> D:/VisualStudioSRC/prn212/SecondDEgree/obj/Debug/net8.0/.NETCoreApp,Version=v8.0.AssemblyAttributes.cs
+cov-emit-cs invocation time (seconds): 4
+cov-translate invocation time (seconds): 4
+cov-build invocation time (seconds): 704
+Translation unit:
+761 -> D:/VisualStudioSRC/prn212/SecondDEgree/obj/Debug/net8.0/SecondDEgree.AssemblyInfo.cs
+cov-emit-cs invocation time (seconds): 4
+cov-translate invocation time (seconds): 4
+cov-build invocation time (seconds): 704
+Translation unit:
+762 -> D:/VisualStudioSRC/prn212/StringInteraction/Program.cs
+cov-emit-cs invocation time (seconds): 4
+cov-translate invocation time (seconds): 5
+cov-build invocation time (seconds): 704
+Translation unit:
+763 -> D:/VisualStudioSRC/prn212/StringInteraction/obj/Debug/net8.0/StringInteraction.GlobalUsings.g.cs
+cov-emit-cs invocation time (seconds): 4
+cov-translate invocation time (seconds): 5
+cov-build invocation time (seconds): 704
+Translation unit:
+764 -> D:/VisualStudioSRC/prn212/StringInteraction/obj/Debug/net8.0/.NETCoreApp,Version=v8.0.AssemblyAttributes.cs
+cov-emit-cs invocation time (seconds): 4
+cov-translate invocation time (seconds): 5
+cov-build invocation time (seconds): 704
+Translation unit:
+765 -> D:/VisualStudioSRC/prn212/StringInteraction/obj/Debug/net8.0/StringInteraction.AssemblyInfo.cs
+cov-emit-cs invocation time (seconds): 4
+cov-translate invocation time (seconds): 5
+cov-build invocation time (seconds): 704
+Translation unit:
+774 -> D:/VisualStudioSRC/prn212/ParamForArray/Program.cs
+cov-emit-cs invocation time (seconds): 4
+cov-translate invocation time (seconds): 5
+cov-build invocation time (seconds): 704
+Translation unit:
+775 -> D:/VisualStudioSRC/prn212/ParamForArray/obj/Debug/net8.0/ParamForArray.GlobalUsings.g.cs
+cov-emit-cs invocation time (seconds): 4
+cov-translate invocation time (seconds): 5
+cov-build invocation time (seconds): 704
+Translation unit:
+805 -> D:/VisualStudioSRC/prn212/OOP2/obj/Debug/net8.0/OOP2.GlobalUsings.g.cs
+cov-emit-cs invocation time (seconds): 4
+cov-translate invocation time (seconds): 4
+cov-build invocation time (seconds): 704
+Translation unit:
+777 -> D:/VisualStudioSRC/prn212/ParamForArray/obj/Debug/net8.0/ParamForArray.AssemblyInfo.cs
+cov-emit-cs invocation time (seconds): 4
+cov-translate invocation time (seconds): 5
+cov-build invocation time (seconds): 704
+Translation unit:
+778 -> D:/VisualStudioSRC/prn212/NonStatic&Static/Program.cs
+cov-emit-cs invocation time (seconds): 4
+cov-translate invocation time (seconds): 4
+cov-build invocation time (seconds): 704
+Translation unit:
+779 -> D:/VisualStudioSRC/prn212/NonStatic&Static/obj/Debug/net8.0/NonStatic&Static.GlobalUsings.g.cs
+cov-emit-cs invocation time (seconds): 4
+cov-translate invocation time (seconds): 4
+cov-build invocation time (seconds): 704
+Translation unit:
+780 -> D:/VisualStudioSRC/prn212/NonStatic&Static/obj/Debug/net8.0/.NETCoreApp,Version=v8.0.AssemblyAttributes.cs
+cov-emit-cs invocation time (seconds): 4
+cov-translate invocation time (seconds): 4
+cov-build invocation time (seconds): 704
+Translation unit:
+781 -> D:/VisualStudioSRC/prn212/NonStatic&Static/obj/Debug/net8.0/NonStatic&Static.AssemblyInfo.cs
+cov-emit-cs invocation time (seconds): 4
+cov-translate invocation time (seconds): 4
+cov-build invocation time (seconds): 704
+Translation unit:
+801 -> D:/VisualStudioSRC/prn212/OOP2/Employees.cs
+cov-emit-cs invocation time (seconds): 4
+cov-translate invocation time (seconds): 4
+cov-build invocation time (seconds): 704
+Translation unit:
+802 -> D:/VisualStudioSRC/prn212/OOP2/FullTimeEmployees.cs
+cov-emit-cs invocation time (seconds): 4
+cov-translate invocation time (seconds): 4
+cov-build invocation time (seconds): 704
+Translation unit:
+803 -> D:/VisualStudioSRC/prn212/OOP2/PartTimeEmployees.cs
+cov-emit-cs invocation time (seconds): 4
+cov-translate invocation time (seconds): 4
+cov-build invocation time (seconds): 704
+Translation unit:
+804 -> D:/VisualStudioSRC/prn212/OOP2/Program.cs
+cov-emit-cs invocation time (seconds): 4
+cov-translate invocation time (seconds): 4
+cov-build invocation time (seconds): 704
+Translation unit:
+866 -> D:/VisualStudioSRC/prn212/chapter5/SingletonPattern/obj/Debug/net9.0/SingletonPattern.AssemblyInfo.cs
+cov-emit-cs invocation time (seconds): 4
+cov-translate invocation time (seconds): 5
+cov-build invocation time (seconds): 704
+Translation unit:
+263 -> C:/Program Files/dotnet/packs/Microsoft.NETCore.App.Ref/9.0.6/ref/net9.0/Microsoft.Win32.Registry.dll (reference assembly)
+Translation unit:
+264 -> C:/Program Files/dotnet/packs/Microsoft.NETCore.App.Ref/9.0.6/ref/net9.0/System.AppContext.dll
+Translation unit:
+265 -> C:/Program Files/dotnet/packs/Microsoft.NETCore.App.Ref/9.0.6/ref/net9.0/System.Buffers.dll
+Translation unit:
+266 -> C:/Program Files/dotnet/packs/Microsoft.NETCore.App.Ref/9.0.6/ref/net9.0/System.Collections.Concurrent.dll (reference assembly)
+Translation unit:
+879 -> D:/VisualStudioSRC/prn212/DemoLinQ/obj/Debug/net8.0/DemoLinQ.AssemblyInfo.cs
+cov-emit-cs invocation time (seconds): 4
+cov-translate invocation time (seconds): 4
+cov-build invocation time (seconds): 704
+Translation unit:
+878 -> D:/VisualStudioSRC/prn212/DemoLinQ/obj/Debug/net8.0/.NETCoreApp,Version=v8.0.AssemblyAttributes.cs
+cov-emit-cs invocation time (seconds): 4
+cov-translate invocation time (seconds): 4
+cov-build invocation time (seconds): 704
+Translation unit:
+877 -> D:/VisualStudioSRC/prn212/DemoLinQ/obj/Debug/net8.0/DemoLinQ.GlobalUsings.g.cs
+cov-emit-cs invocation time (seconds): 4
+cov-translate invocation time (seconds): 4
+cov-build invocation time (seconds): 704
+Translation unit:
+876 -> D:/VisualStudioSRC/prn212/DemoLinQ/Program.cs
+cov-emit-cs invocation time (seconds): 4
+cov-translate invocation time (seconds): 4
+cov-build invocation time (seconds): 704
+Translation unit:
+262 -> C:/Program Files/dotnet/packs/Microsoft.NETCore.App.Ref/9.0.6/ref/net9.0/Microsoft.Win32.Primitives.dll (reference assembly)
+Translation unit:
+865 -> D:/VisualStudioSRC/prn212/chapter5/SingletonPattern/obj/Debug/net9.0/.NETCoreApp,Version=v9.0.AssemblyAttributes.cs
+cov-emit-cs invocation time (seconds): 4
+cov-translate invocation time (seconds): 5
+cov-build invocation time (seconds): 704
+Translation unit:
+864 -> D:/VisualStudioSRC/prn212/chapter5/SingletonPattern/obj/Debug/net9.0/SingletonPattern.GlobalUsings.g.cs
+cov-emit-cs invocation time (seconds): 4
+cov-translate invocation time (seconds): 5
+cov-build invocation time (seconds): 704
+Translation unit:
+863 -> D:/VisualStudioSRC/prn212/chapter5/SingletonPattern/Singleton.cs
+cov-emit-cs invocation time (seconds): 4
+cov-translate invocation time (seconds): 5
+cov-build invocation time (seconds): 704
+Translation unit:
+862 -> D:/VisualStudioSRC/prn212/chapter5/SingletonPattern/Program.cs
+cov-emit-cs invocation time (seconds): 4
+cov-translate invocation time (seconds): 5
+cov-build invocation time (seconds): 704
+Translation unit:
+861 -> D:/VisualStudioSRC/prn212/chapter5/PrototypePattern/obj/Debug/net9.0/PrototypePattern.AssemblyInfo.cs
+cov-emit-cs invocation time (seconds): 4
+cov-translate invocation time (seconds): 5
+cov-build invocation time (seconds): 704
+Translation unit:
+860 -> D:/VisualStudioSRC/prn212/chapter5/PrototypePattern/obj/Debug/net9.0/.NETCoreApp,Version=v9.0.AssemblyAttributes.cs
+cov-emit-cs invocation time (seconds): 4
+cov-translate invocation time (seconds): 5
+cov-build invocation time (seconds): 704
+Translation unit:
+859 -> D:/VisualStudioSRC/prn212/chapter5/PrototypePattern/obj/Debug/net9.0/PrototypePattern.GlobalUsings.g.cs
+cov-emit-cs invocation time (seconds): 4
+cov-translate invocation time (seconds): 5
+cov-build invocation time (seconds): 704
+Translation unit:
+280 -> C:/Program Files/dotnet/packs/Microsoft.NETCore.App.Ref/9.0.6/ref/net9.0/System.Data.DataSetExtensions.dll
+Translation unit:
+276 -> C:/Program Files/dotnet/packs/Microsoft.NETCore.App.Ref/9.0.6/ref/net9.0/System.Configuration.dll
+Translation unit:
+277 -> C:/Program Files/dotnet/packs/Microsoft.NETCore.App.Ref/9.0.6/ref/net9.0/System.ComponentModel.TypeConverter.dll (reference assembly)
+Translation unit:
+240 -> D:/VisualStudioSRC/prn212/OOP2/obj/Debug/net8.0/ref/OOP2.dll (reference assembly)
+Translation unit:
+259 -> C:/Program Files/dotnet/packs/Microsoft.NETCore.App.Ref/9.0.6/ref/net9.0/Microsoft.CSharp.dll (reference assembly)
+Translation unit:
+260 -> C:/Program Files/dotnet/packs/Microsoft.NETCore.App.Ref/9.0.6/ref/net9.0/Microsoft.VisualBasic.dll
+Translation unit:
+261 -> C:/Program Files/dotnet/packs/Microsoft.NETCore.App.Ref/9.0.6/ref/net9.0/Microsoft.VisualBasic.Core.dll (reference assembly)
+Translation unit:
+278 -> C:/Program Files/dotnet/packs/Microsoft.NETCore.App.Ref/9.0.6/ref/net9.0/System.Console.dll (reference assembly)
+Translation unit:
+279 -> C:/Program Files/dotnet/packs/Microsoft.NETCore.App.Ref/9.0.6/ref/net9.0/System.Core.dll
+Translation unit:
+858 -> D:/VisualStudioSRC/prn212/chapter5/PrototypePattern/Program.cs
+cov-emit-cs invocation time (seconds): 4
+cov-translate invocation time (seconds): 5
+cov-build invocation time (seconds): 704
+Translation unit:
+281 -> C:/Program Files/dotnet/packs/Microsoft.NETCore.App.Ref/9.0.6/ref/net9.0/System.Data.dll (reference assembly)
+Translation unit:
+282 -> C:/Program Files/dotnet/packs/Microsoft.NETCore.App.Ref/9.0.6/ref/net9.0/System.Data.Common.dll (reference assembly)
+Translation unit:
+283 -> C:/Program Files/dotnet/packs/Microsoft.NETCore.App.Ref/9.0.6/ref/net9.0/System.Diagnostics.Contracts.dll (reference assembly)
+Translation unit:
+284 -> C:/Program Files/dotnet/packs/Microsoft.NETCore.App.Ref/9.0.6/ref/net9.0/System.Diagnostics.Debug.dll
+Translation unit:
+285 -> C:/Program Files/dotnet/packs/Microsoft.NETCore.App.Ref/9.0.6/ref/net9.0/System.Diagnostics.FileVersionInfo.dll (reference assembly)
+Translation unit:
+286 -> C:/Program Files/dotnet/packs/Microsoft.NETCore.App.Ref/9.0.6/ref/net9.0/System.Diagnostics.Process.dll (reference assembly)
+Translation unit:
+287 -> C:/Program Files/dotnet/packs/Microsoft.NETCore.App.Ref/9.0.6/ref/net9.0/System.Diagnostics.StackTrace.dll (reference assembly)
+Translation unit:
+832 -> D:/VisualStudioSRC/prn212/chapter5/BuilderPattern/Program.cs
+cov-emit-cs invocation time (seconds): 4
+cov-translate invocation time (seconds): 5
+cov-build invocation time (seconds): 704
+Translation unit:
+840 -> D:/VisualStudioSRC/prn212/chapter5/FactoriesPattern/Program.cs
+cov-emit-cs invocation time (seconds): 4
+cov-translate invocation time (seconds): 5
+cov-build invocation time (seconds): 704
+Translation unit:
+839 -> D:/VisualStudioSRC/prn212/chapter5/FactoriesPattern/LionFactory.cs
+cov-emit-cs invocation time (seconds): 4
+cov-translate invocation time (seconds): 5
+cov-build invocation time (seconds): 704
+Translation unit:
+838 -> D:/VisualStudioSRC/prn212/chapter5/FactoriesPattern/Lion.cs
+cov-emit-cs invocation time (seconds): 4
+cov-translate invocation time (seconds): 5
+cov-build invocation time (seconds): 704
+Translation unit:
+837 -> D:/VisualStudioSRC/prn212/chapter5/FactoriesPattern/IAnimal.cs
+cov-emit-cs invocation time (seconds): 4
+cov-translate invocation time (seconds): 5
+cov-build invocation time (seconds): 704
+Translation unit:
+836 -> D:/VisualStudioSRC/prn212/chapter5/FactoriesPattern/AnimalFactory.cs
+cov-emit-cs invocation time (seconds): 4
+cov-translate invocation time (seconds): 5
+cov-build invocation time (seconds): 704
+Translation unit:
+758 -> D:/VisualStudioSRC/prn212/SecondDEgree/Program.cs
+cov-emit-cs invocation time (seconds): 4
+cov-translate invocation time (seconds): 4
+cov-build invocation time (seconds): 704
+Translation unit:
+834 -> D:/VisualStudioSRC/prn212/chapter5/BuilderPattern/obj/Debug/net9.0/.NETCoreApp,Version=v9.0.AssemblyAttributes.cs
+cov-emit-cs invocation time (seconds): 4
+cov-translate invocation time (seconds): 5
+cov-build invocation time (seconds): 704
+Translation unit:
+833 -> D:/VisualStudioSRC/prn212/chapter5/BuilderPattern/obj/Debug/net9.0/BuilderPattern.GlobalUsings.g.cs
+cov-emit-cs invocation time (seconds): 4
+cov-translate invocation time (seconds): 5
+cov-build invocation time (seconds): 704
+Translation unit:
+841 -> D:/VisualStudioSRC/prn212/chapter5/FactoriesPattern/Tiger.cs
+cov-emit-cs invocation time (seconds): 4
+cov-translate invocation time (seconds): 5
+cov-build invocation time (seconds): 704
+Translation unit:
+831 -> D:/VisualStudioSRC/prn212/chapter5/BuilderPattern/IBurgerBuilder.cs
+cov-emit-cs invocation time (seconds): 4
+cov-translate invocation time (seconds): 5
+cov-build invocation time (seconds): 704
+Translation unit:
+830 -> D:/VisualStudioSRC/prn212/chapter5/BuilderPattern/Chef.cs
+cov-emit-cs invocation time (seconds): 4
+cov-translate invocation time (seconds): 5
+cov-build invocation time (seconds): 704
+Translation unit:
+829 -> D:/VisualStudioSRC/prn212/chapter5/BuilderPattern/BurgerBuilder.cs
+cov-emit-cs invocation time (seconds): 4
+cov-translate invocation time (seconds): 5
+cov-build invocation time (seconds): 704
+Translation unit:
+828 -> D:/VisualStudioSRC/prn212/chapter5/BuilderPattern/Burger.cs
+cov-emit-cs invocation time (seconds): 4
+cov-translate invocation time (seconds): 5
+cov-build invocation time (seconds): 704
+Translation unit:
+827 -> D:/VisualStudioSRC/prn212/OOP5-Dictionary/obj/Debug/net8.0/OOP5-Dictionary.AssemblyInfo.cs
+cov-emit-cs invocation time (seconds): 4
+cov-translate invocation time (seconds): 5
+cov-build invocation time (seconds): 704
+Translation unit:
+826 -> D:/VisualStudioSRC/prn212/OOP5-Dictionary/obj/Debug/net8.0/.NETCoreApp,Version=v8.0.AssemblyAttributes.cs
+cov-emit-cs invocation time (seconds): 4
+cov-translate invocation time (seconds): 5
+cov-build invocation time (seconds): 704
+Translation unit:
+825 -> D:/VisualStudioSRC/prn212/OOP5-Dictionary/obj/Debug/net8.0/OOP5-Dictionary.GlobalUsings.g.cs
+cov-emit-cs invocation time (seconds): 4
+cov-translate invocation time (seconds): 5
+cov-build invocation time (seconds): 704
+Translation unit:
+849 -> D:/VisualStudioSRC/prn212/chapter5/ObserverPattern/ISubject.cs
+cov-emit-cs invocation time (seconds): 4
+cov-translate invocation time (seconds): 5
+cov-build invocation time (seconds): 704
+Translation unit:
+857 -> D:/VisualStudioSRC/prn212/chapter5/PrototypePattern/Mustang.cs
+cov-emit-cs invocation time (seconds): 4
+cov-translate invocation time (seconds): 5
+cov-build invocation time (seconds): 704
+Translation unit:
+856 -> D:/VisualStudioSRC/prn212/chapter5/PrototypePattern/Car.cs
+cov-emit-cs invocation time (seconds): 4
+cov-translate invocation time (seconds): 5
+cov-build invocation time (seconds): 704
+Translation unit:
+855 -> D:/VisualStudioSRC/prn212/chapter5/PrototypePattern/Bentley.cs
+cov-emit-cs invocation time (seconds): 4
+cov-translate invocation time (seconds): 5
+cov-build invocation time (seconds): 704
+Translation unit:
+854 -> D:/VisualStudioSRC/prn212/chapter5/ObserverPattern/obj/Debug/net9.0/ObserverPattern.AssemblyInfo.cs
+cov-emit-cs invocation time (seconds): 4
+cov-translate invocation time (seconds): 5
+cov-build invocation time (seconds): 704
+Translation unit:
+853 -> D:/VisualStudioSRC/prn212/chapter5/ObserverPattern/obj/Debug/net9.0/.NETCoreApp,Version=v9.0.AssemblyAttributes.cs
+cov-emit-cs invocation time (seconds): 4
+cov-translate invocation time (seconds): 5
+cov-build invocation time (seconds): 704
+Translation unit:
+852 -> D:/VisualStudioSRC/prn212/chapter5/ObserverPattern/obj/Debug/net9.0/ObserverPattern.GlobalUsings.g.cs
+cov-emit-cs invocation time (seconds): 4
+cov-translate invocation time (seconds): 5
+cov-build invocation time (seconds): 704
+Translation unit:
+851 -> D:/VisualStudioSRC/prn212/chapter5/ObserverPattern/Subject.cs
+cov-emit-cs invocation time (seconds): 4
+cov-translate invocation time (seconds): 5
+cov-build invocation time (seconds): 704
+Translation unit:
+850 -> D:/VisualStudioSRC/prn212/chapter5/ObserverPattern/Program.cs
+cov-emit-cs invocation time (seconds): 4
+cov-translate invocation time (seconds): 5
+cov-build invocation time (seconds): 704
+Translation unit:
+824 -> D:/VisualStudioSRC/prn212/OOP5-Dictionary/Program.cs
+cov-emit-cs invocation time (seconds): 4
+cov-translate invocation time (seconds): 5
+cov-build invocation time (seconds): 704
+Translation unit:
+848 -> D:/VisualStudioSRC/prn212/chapter5/ObserverPattern/IObserver.cs
+cov-emit-cs invocation time (seconds): 4
+cov-translate invocation time (seconds): 5
+cov-build invocation time (seconds): 704
+Translation unit:
+847 -> D:/VisualStudioSRC/prn212/chapter5/ObserverPattern/ConcreteObserverB.cs
+cov-emit-cs invocation time (seconds): 4
+cov-translate invocation time (seconds): 5
+cov-build invocation time (seconds): 704
+Translation unit:
+846 -> D:/VisualStudioSRC/prn212/chapter5/ObserverPattern/ConcreteObserverA.cs
+cov-emit-cs invocation time (seconds): 4
+cov-translate invocation time (seconds): 5
+cov-build invocation time (seconds): 704
+Translation unit:
+845 -> D:/VisualStudioSRC/prn212/chapter5/FactoriesPattern/obj/Debug/net9.0/FactoriesPattern.AssemblyInfo.cs
+cov-emit-cs invocation time (seconds): 4
+cov-translate invocation time (seconds): 5
+cov-build invocation time (seconds): 704
+Translation unit:
+844 -> D:/VisualStudioSRC/prn212/chapter5/FactoriesPattern/obj/Debug/net9.0/.NETCoreApp,Version=v9.0.AssemblyAttributes.cs
+cov-emit-cs invocation time (seconds): 4
+cov-translate invocation time (seconds): 5
+cov-build invocation time (seconds): 704
+Translation unit:
+843 -> D:/VisualStudioSRC/prn212/chapter5/FactoriesPattern/obj/Debug/net9.0/FactoriesPattern.GlobalUsings.g.cs
+cov-emit-cs invocation time (seconds): 4
+cov-translate invocation time (seconds): 5
+cov-build invocation time (seconds): 704
+Translation unit:
+842 -> D:/VisualStudioSRC/prn212/chapter5/FactoriesPattern/TigerFactory.cs
+cov-emit-cs invocation time (seconds): 4
+cov-translate invocation time (seconds): 5
+cov-build invocation time (seconds): 704
+Translation unit:
+373 -> C:/Program Files/dotnet/packs/Microsoft.NETCore.App.Ref/9.0.6/ref/net9.0/System.Security.Cryptography.Algorithms.dll
+Translation unit:
+382 -> C:/Program Files/dotnet/packs/Microsoft.NETCore.App.Ref/9.0.6/ref/net9.0/System.Security.SecureString.dll
+Translation unit:
+381 -> C:/Program Files/dotnet/packs/Microsoft.NETCore.App.Ref/9.0.6/ref/net9.0/System.Security.Principal.dll
+Translation unit:
+380 -> C:/Program Files/dotnet/packs/Microsoft.NETCore.App.Ref/9.0.6/ref/net9.0/System.Security.Cryptography.X509Certificates.dll
+Translation unit:
+379 -> C:/Program Files/dotnet/packs/Microsoft.NETCore.App.Ref/9.0.6/ref/net9.0/System.Security.Cryptography.Primitives.dll
+Translation unit:
+378 -> C:/Program Files/dotnet/packs/Microsoft.NETCore.App.Ref/9.0.6/ref/net9.0/System.Security.Cryptography.OpenSsl.dll
+Translation unit:
+377 -> C:/Program Files/dotnet/packs/Microsoft.NETCore.App.Ref/9.0.6/ref/net9.0/System.Security.Cryptography.Encoding.dll
+Translation unit:
+376 -> C:/Program Files/dotnet/packs/Microsoft.NETCore.App.Ref/9.0.6/ref/net9.0/System.Security.Cryptography.Csp.dll
+Translation unit:
+375 -> C:/Program Files/dotnet/packs/Microsoft.NETCore.App.Ref/9.0.6/ref/net9.0/System.Runtime.dll (reference assembly)
+Translation unit:
+374 -> C:/Program Files/dotnet/packs/Microsoft.NETCore.App.Ref/9.0.6/ref/net9.0/System.Security.Cryptography.Cng.dll
+Translation unit:
+383 -> C:/Program Files/dotnet/packs/Microsoft.NETCore.App.Ref/9.0.6/ref/net9.0/System.Security.Cryptography.dll (reference assembly)
+Translation unit:
+372 -> C:/Program Files/dotnet/packs/Microsoft.NETCore.App.Ref/9.0.6/ref/net9.0/System.Security.AccessControl.dll (reference assembly)
+Translation unit:
+371 -> C:/Program Files/dotnet/packs/Microsoft.NETCore.App.Ref/9.0.6/ref/net9.0/System.Security.Claims.dll (reference assembly)
+Translation unit:
+370 -> C:/Program Files/dotnet/packs/Microsoft.NETCore.App.Ref/9.0.6/ref/net9.0/System.Runtime.Serialization.Xml.dll (reference assembly)
+Translation unit:
+369 -> C:/Program Files/dotnet/packs/Microsoft.NETCore.App.Ref/9.0.6/ref/net9.0/System.Runtime.Serialization.dll
+Translation unit:
+368 -> C:/Program Files/dotnet/packs/Microsoft.NETCore.App.Ref/9.0.6/ref/net9.0/System.Runtime.Serialization.Primitives.dll (reference assembly)
+Translation unit:
+367 -> C:/Program Files/dotnet/packs/Microsoft.NETCore.App.Ref/9.0.6/ref/net9.0/System.Runtime.Serialization.Json.dll (reference assembly)
+Translation unit:
+366 -> C:/Program Files/dotnet/packs/Microsoft.NETCore.App.Ref/9.0.6/ref/net9.0/System.Runtime.Serialization.Formatters.dll (reference assembly)
+Translation unit:
+365 -> C:/Program Files/dotnet/packs/Microsoft.NETCore.App.Ref/9.0.6/ref/net9.0/System.Runtime.Numerics.dll (reference assembly)
+Translation unit:
+364 -> C:/Program Files/dotnet/packs/Microsoft.NETCore.App.Ref/9.0.6/ref/net9.0/System.Runtime.Intrinsics.dll (reference assembly)
+Translation unit:
+393 -> C:/Program Files/dotnet/packs/Microsoft.NETCore.App.Ref/9.0.6/ref/net9.0/System.Text.RegularExpressions.dll (reference assembly)
+Translation unit:
+402 -> C:/Program Files/dotnet/packs/Microsoft.NETCore.App.Ref/9.0.6/ref/net9.0/System.Threading.ThreadPool.dll (reference assembly)
+Translation unit:
+757 -> D:/VisualStudioSRC/prn212/VarandDynamic/obj/Debug/net8.0/VarandDynamic.AssemblyInfo.cs
+cov-emit-cs invocation time (seconds): 4
+cov-translate invocation time (seconds): 4
+cov-build invocation time (seconds): 704
+Translation unit:
+400 -> C:/Program Files/dotnet/packs/Microsoft.NETCore.App.Ref/9.0.6/ref/net9.0/System.Threading.Thread.dll (reference assembly)
+Translation unit:
+399 -> C:/Program Files/dotnet/packs/Microsoft.NETCore.App.Ref/9.0.6/ref/net9.0/System.Threading.Tasks.Parallel.dll (reference assembly)
+Translation unit:
+398 -> C:/Program Files/dotnet/packs/Microsoft.NETCore.App.Ref/9.0.6/ref/net9.0/System.Threading.Tasks.dll
+Translation unit:
+397 -> C:/Program Files/dotnet/packs/Microsoft.NETCore.App.Ref/9.0.6/ref/net9.0/System.Threading.Tasks.Extensions.dll
+Translation unit:
+396 -> C:/Program Files/dotnet/packs/Microsoft.NETCore.App.Ref/9.0.6/ref/net9.0/System.Threading.Tasks.Dataflow.dll (reference assembly)
+Translation unit:
+395 -> C:/Program Files/dotnet/packs/Microsoft.NETCore.App.Ref/9.0.6/ref/net9.0/System.Threading.Overlapped.dll (reference assembly)
+Translation unit:
+394 -> C:/Program Files/dotnet/packs/Microsoft.NETCore.App.Ref/9.0.6/ref/net9.0/System.Threading.Channels.dll (reference assembly)
+Translation unit:
+363 -> C:/Program Files/dotnet/packs/Microsoft.NETCore.App.Ref/9.0.6/ref/net9.0/System.Runtime.Loader.dll (reference assembly)
+Translation unit:
+392 -> C:/Program Files/dotnet/packs/Microsoft.NETCore.App.Ref/9.0.6/ref/net9.0/System.Text.Json.dll (reference assembly)
+Translation unit:
+391 -> C:/Program Files/dotnet/packs/Microsoft.NETCore.App.Ref/9.0.6/ref/net9.0/System.Text.Encodings.Web.dll (reference assembly)
+Translation unit:
+390 -> C:/Program Files/dotnet/packs/Microsoft.NETCore.App.Ref/9.0.6/ref/net9.0/System.Text.Encoding.Extensions.dll (reference assembly)
+Translation unit:
+389 -> C:/Program Files/dotnet/packs/Microsoft.NETCore.App.Ref/9.0.6/ref/net9.0/System.Text.Encoding.dll
+Translation unit:
+388 -> C:/Program Files/dotnet/packs/Microsoft.NETCore.App.Ref/9.0.6/ref/net9.0/System.Text.Encoding.CodePages.dll (reference assembly)
+Translation unit:
+387 -> C:/Program Files/dotnet/packs/Microsoft.NETCore.App.Ref/9.0.6/ref/net9.0/System.ServiceProcess.dll
+Translation unit:
+386 -> C:/Program Files/dotnet/packs/Microsoft.NETCore.App.Ref/9.0.6/ref/net9.0/System.ServiceModel.Web.dll
+Translation unit:
+385 -> C:/Program Files/dotnet/packs/Microsoft.NETCore.App.Ref/9.0.6/ref/net9.0/System.Security.dll
+Translation unit:
+384 -> C:/Program Files/dotnet/packs/Microsoft.NETCore.App.Ref/9.0.6/ref/net9.0/System.Security.Principal.Windows.dll (reference assembly)
+Translation unit:
+334 -> C:/Program Files/dotnet/packs/Microsoft.NETCore.App.Ref/9.0.6/ref/net9.0/System.Net.Sockets.dll (reference assembly)
+Translation unit:
+343 -> C:/Program Files/dotnet/packs/Microsoft.NETCore.App.Ref/9.0.6/ref/net9.0/System.ObjectModel.dll (reference assembly)
+Translation unit:
+342 -> C:/Program Files/dotnet/packs/Microsoft.NETCore.App.Ref/9.0.6/ref/net9.0/System.Numerics.Vectors.dll (reference assembly)
+Translation unit:
+341 -> C:/Program Files/dotnet/packs/Microsoft.NETCore.App.Ref/9.0.6/ref/net9.0/System.Numerics.dll
+Translation unit:
+340 -> C:/Program Files/dotnet/packs/Microsoft.NETCore.App.Ref/9.0.6/ref/net9.0/System.Net.dll
+Translation unit:
+339 -> C:/Program Files/dotnet/packs/Microsoft.NETCore.App.Ref/9.0.6/ref/net9.0/System.Net.WebSockets.dll (reference assembly)
+Translation unit:
+338 -> C:/Program Files/dotnet/packs/Microsoft.NETCore.App.Ref/9.0.6/ref/net9.0/System.Net.WebSockets.Client.dll (reference assembly)
+Translation unit:
+337 -> C:/Program Files/dotnet/packs/Microsoft.NETCore.App.Ref/9.0.6/ref/net9.0/System.Net.WebProxy.dll (reference assembly)
+Translation unit:
+336 -> C:/Program Files/dotnet/packs/Microsoft.NETCore.App.Ref/9.0.6/ref/net9.0/System.Net.WebHeaderCollection.dll (reference assembly)
+Translation unit:
+335 -> C:/Program Files/dotnet/packs/Microsoft.NETCore.App.Ref/9.0.6/ref/net9.0/System.Net.WebClient.dll (reference assembly)
+Translation unit:
+344 -> C:/Program Files/dotnet/packs/Microsoft.NETCore.App.Ref/9.0.6/ref/net9.0/System.Reflection.DispatchProxy.dll (reference assembly)
+Translation unit:
+333 -> C:/Program Files/dotnet/packs/Microsoft.NETCore.App.Ref/9.0.6/ref/net9.0/System.Net.ServicePoint.dll
+Translation unit:
+332 -> C:/Program Files/dotnet/packs/Microsoft.NETCore.App.Ref/9.0.6/ref/net9.0/System.Net.Security.dll (reference assembly)
+Translation unit:
+331 -> C:/Program Files/dotnet/packs/Microsoft.NETCore.App.Ref/9.0.6/ref/net9.0/System.Net.Requests.dll (reference assembly)
+Translation unit:
+330 -> C:/Program Files/dotnet/packs/Microsoft.NETCore.App.Ref/9.0.6/ref/net9.0/System.Net.Quic.dll (reference assembly)
+Translation unit:
+329 -> C:/Program Files/dotnet/packs/Microsoft.NETCore.App.Ref/9.0.6/ref/net9.0/System.Net.Primitives.dll (reference assembly)
+Translation unit:
+328 -> C:/Program Files/dotnet/packs/Microsoft.NETCore.App.Ref/9.0.6/ref/net9.0/System.Net.Ping.dll (reference assembly)
+Translation unit:
+327 -> C:/Program Files/dotnet/packs/Microsoft.NETCore.App.Ref/9.0.6/ref/net9.0/System.Net.NetworkInformation.dll (reference assembly)
+Translation unit:
+326 -> C:/Program Files/dotnet/packs/Microsoft.NETCore.App.Ref/9.0.6/ref/net9.0/System.Net.NameResolution.dll (reference assembly)
+Translation unit:
+325 -> C:/Program Files/dotnet/packs/Microsoft.NETCore.App.Ref/9.0.6/ref/net9.0/System.Net.Mail.dll (reference assembly)
+Translation unit:
+353 -> C:/Program Files/dotnet/packs/Microsoft.NETCore.App.Ref/9.0.6/ref/net9.0/System.Resources.Reader.dll
+Translation unit:
+362 -> C:/Program Files/dotnet/packs/Microsoft.NETCore.App.Ref/9.0.6/ref/net9.0/System.Runtime.InteropServices.dll (reference assembly)
+Translation unit:
+361 -> C:/Program Files/dotnet/packs/Microsoft.NETCore.App.Ref/9.0.6/ref/net9.0/System.Runtime.InteropServices.JavaScript.dll (reference assembly)
+Translation unit:
+360 -> C:/Program Files/dotnet/packs/Microsoft.NETCore.App.Ref/9.0.6/ref/net9.0/System.Runtime.InteropServices.RuntimeInformation.dll
+Translation unit:
+359 -> C:/Program Files/dotnet/packs/Microsoft.NETCore.App.Ref/9.0.6/ref/net9.0/System.Runtime.Handles.dll
+Translation unit:
+358 -> C:/Program Files/dotnet/packs/Microsoft.NETCore.App.Ref/9.0.6/ref/net9.0/System.Runtime.CompilerServices.VisualC.dll (reference assembly)
+Translation unit:
+357 -> C:/Program Files/dotnet/packs/Microsoft.NETCore.App.Ref/9.0.6/ref/net9.0/System.Runtime.Extensions.dll
+Translation unit:
+356 -> C:/Program Files/dotnet/packs/Microsoft.NETCore.App.Ref/9.0.6/ref/net9.0/System.Resources.Writer.dll (reference assembly)
+Translation unit:
+355 -> C:/Program Files/dotnet/packs/Microsoft.NETCore.App.Ref/9.0.6/ref/net9.0/System.Runtime.CompilerServices.Unsafe.dll
+Translation unit:
+354 -> C:/Program Files/dotnet/packs/Microsoft.NETCore.App.Ref/9.0.6/ref/net9.0/System.Resources.ResourceManager.dll
+Translation unit:
+401 -> C:/Program Files/dotnet/packs/Microsoft.NETCore.App.Ref/9.0.6/ref/net9.0/System.Threading.Timer.dll
+Translation unit:
+352 -> C:/Program Files/dotnet/packs/Microsoft.NETCore.App.Ref/9.0.6/ref/net9.0/System.Reflection.dll
+Translation unit:
+351 -> C:/Program Files/dotnet/packs/Microsoft.NETCore.App.Ref/9.0.6/ref/net9.0/System.Reflection.TypeExtensions.dll (reference assembly)
+Translation unit:
+350 -> C:/Program Files/dotnet/packs/Microsoft.NETCore.App.Ref/9.0.6/ref/net9.0/System.Reflection.Metadata.dll (reference assembly)
+Translation unit:
+349 -> C:/Program Files/dotnet/packs/Microsoft.NETCore.App.Ref/9.0.6/ref/net9.0/System.Reflection.Primitives.dll (reference assembly)
+Translation unit:
+348 -> C:/Program Files/dotnet/packs/Microsoft.NETCore.App.Ref/9.0.6/ref/net9.0/System.Reflection.Extensions.dll
+Translation unit:
+347 -> C:/Program Files/dotnet/packs/Microsoft.NETCore.App.Ref/9.0.6/ref/net9.0/System.Reflection.Emit.dll (reference assembly)
+Translation unit:
+346 -> C:/Program Files/dotnet/packs/Microsoft.NETCore.App.Ref/9.0.6/ref/net9.0/System.Reflection.Emit.Lightweight.dll (reference assembly)
+Translation unit:
+345 -> C:/Program Files/dotnet/packs/Microsoft.NETCore.App.Ref/9.0.6/ref/net9.0/System.Reflection.Emit.ILGeneration.dll (reference assembly)
+Translation unit:
+300 -> C:/Program Files/dotnet/packs/Microsoft.NETCore.App.Ref/9.0.6/ref/net9.0/System.Globalization.dll
+Translation unit:
+275 -> C:/Program Files/dotnet/packs/Microsoft.NETCore.App.Ref/9.0.6/ref/net9.0/System.ComponentModel.dll (reference assembly)
+Translation unit:
+292 -> C:/Program Files/dotnet/packs/Microsoft.NETCore.App.Ref/9.0.6/ref/net9.0/System.Drawing.Primitives.dll (reference assembly)
+Translation unit:
+293 -> C:/Program Files/dotnet/packs/Microsoft.NETCore.App.Ref/9.0.6/ref/net9.0/System.Drawing.dll
+Translation unit:
+294 -> C:/Program Files/dotnet/packs/Microsoft.NETCore.App.Ref/9.0.6/ref/net9.0/System.Dynamic.Runtime.dll
+Translation unit:
+295 -> C:/Program Files/dotnet/packs/Microsoft.NETCore.App.Ref/9.0.6/ref/net9.0/System.Diagnostics.Tracing.dll (reference assembly)
+Translation unit:
+296 -> C:/Program Files/dotnet/packs/Microsoft.NETCore.App.Ref/9.0.6/ref/net9.0/System.Formats.Asn1.dll (reference assembly)
+Translation unit:
+297 -> C:/Program Files/dotnet/packs/Microsoft.NETCore.App.Ref/9.0.6/ref/net9.0/System.Globalization.Calendars.dll
+Translation unit:
+298 -> C:/Program Files/dotnet/packs/Microsoft.NETCore.App.Ref/9.0.6/ref/net9.0/System.Formats.Tar.dll (reference assembly)
+Translation unit:
+299 -> C:/Program Files/dotnet/packs/Microsoft.NETCore.App.Ref/9.0.6/ref/net9.0/System.Globalization.Extensions.dll
+Translation unit:
+291 -> C:/Program Files/dotnet/packs/Microsoft.NETCore.App.Ref/9.0.6/ref/net9.0/System.Diagnostics.TraceSource.dll (reference assembly)
+Translation unit:
+301 -> C:/Program Files/dotnet/packs/Microsoft.NETCore.App.Ref/9.0.6/ref/net9.0/System.IO.Compression.FileSystem.dll
+Translation unit:
+302 -> C:/Program Files/dotnet/packs/Microsoft.NETCore.App.Ref/9.0.6/ref/net9.0/System.IO.Compression.ZipFile.dll (reference assembly)
+Translation unit:
+303 -> C:/Program Files/dotnet/packs/Microsoft.NETCore.App.Ref/9.0.6/ref/net9.0/System.IO.Compression.dll (reference assembly)
+Translation unit:
+304 -> C:/Program Files/dotnet/packs/Microsoft.NETCore.App.Ref/9.0.6/ref/net9.0/System.IO.FileSystem.AccessControl.dll (reference assembly)
+Translation unit:
+305 -> C:/Program Files/dotnet/packs/Microsoft.NETCore.App.Ref/9.0.6/ref/net9.0/System.IO.Compression.Brotli.dll (reference assembly)
+Translation unit:
+306 -> C:/Program Files/dotnet/packs/Microsoft.NETCore.App.Ref/9.0.6/ref/net9.0/System.IO.FileSystem.DriveInfo.dll (reference assembly)
+Translation unit:
+307 -> C:/Program Files/dotnet/packs/Microsoft.NETCore.App.Ref/9.0.6/ref/net9.0/System.IO.FileSystem.Primitives.dll
+Translation unit:
+308 -> C:/Program Files/dotnet/packs/Microsoft.NETCore.App.Ref/9.0.6/ref/net9.0/System.IO.FileSystem.dll
+Translation unit:
+403 -> C:/Program Files/dotnet/packs/Microsoft.NETCore.App.Ref/9.0.6/ref/net9.0/System.Threading.dll (reference assembly)
+Translation unit:
+747 -> D:/VisualStudioSRC/prn212/SimpleCaculation/obj/Debug/net8.0/SimpleCaculation.GlobalUsings.g.cs
+cov-emit-cs invocation time (seconds): 4
+cov-translate invocation time (seconds): 5
+cov-build invocation time (seconds): 704
+Translation unit:
+756 -> D:/VisualStudioSRC/prn212/VarandDynamic/obj/Debug/net8.0/.NETCoreApp,Version=v8.0.AssemblyAttributes.cs
+cov-emit-cs invocation time (seconds): 4
+cov-translate invocation time (seconds): 4
+cov-build invocation time (seconds): 704
+Translation unit:
+755 -> D:/VisualStudioSRC/prn212/VarandDynamic/obj/Debug/net8.0/VarandDynamic.GlobalUsings.g.cs
+cov-emit-cs invocation time (seconds): 4
+cov-translate invocation time (seconds): 4
+cov-build invocation time (seconds): 704
+Translation unit:
+754 -> D:/VisualStudioSRC/prn212/VarandDynamic/Program.cs
+cov-emit-cs invocation time (seconds): 4
+cov-translate invocation time (seconds): 4
+cov-build invocation time (seconds): 704
+Translation unit:
+753 -> D:/VisualStudioSRC/prn212/FullStructureProject/obj/Debug/net8.0/FullStructureProject.AssemblyInfo.cs
+cov-emit-cs invocation time (seconds): 4
+cov-translate invocation time (seconds): 5
+cov-build invocation time (seconds): 704
+Translation unit:
+752 -> D:/VisualStudioSRC/prn212/FullStructureProject/obj/Debug/net8.0/.NETCoreApp,Version=v8.0.AssemblyAttributes.cs
+cov-emit-cs invocation time (seconds): 4
+cov-translate invocation time (seconds): 5
+cov-build invocation time (seconds): 704
+Translation unit:
+751 -> D:/VisualStudioSRC/prn212/FullStructureProject/obj/Debug/net8.0/FullStructureProject.GlobalUsings.g.cs
+cov-emit-cs invocation time (seconds): 4
+cov-translate invocation time (seconds): 5
+cov-build invocation time (seconds): 704
+Translation unit:
+750 -> D:/VisualStudioSRC/prn212/FullStructureProject/Program.cs
+cov-emit-cs invocation time (seconds): 4
+cov-translate invocation time (seconds): 5
+cov-build invocation time (seconds): 704
+Translation unit:
+749 -> D:/VisualStudioSRC/prn212/SimpleCaculation/obj/Debug/net8.0/SimpleCaculation.AssemblyInfo.cs
+cov-emit-cs invocation time (seconds): 4
+cov-translate invocation time (seconds): 5
+cov-build invocation time (seconds): 704
+Translation unit:
+748 -> D:/VisualStudioSRC/prn212/SimpleCaculation/obj/Debug/net8.0/.NETCoreApp,Version=v8.0.AssemblyAttributes.cs
+cov-emit-cs invocation time (seconds): 4
+cov-translate invocation time (seconds): 5
+cov-build invocation time (seconds): 704
+Translation unit:
+309 -> C:/Program Files/dotnet/packs/Microsoft.NETCore.App.Ref/9.0.6/ref/net9.0/System.IO.FileSystem.Watcher.dll (reference assembly)
+Translation unit:
+746 -> D:/VisualStudioSRC/prn212/SimpleCaculation/Program.cs
+cov-emit-cs invocation time (seconds): 4
+cov-translate invocation time (seconds): 5
+cov-build invocation time (seconds): 704
+Translation unit:
+267 -> C:/Program Files/dotnet/packs/Microsoft.NETCore.App.Ref/9.0.6/ref/net9.0/System.Collections.NonGeneric.dll (reference assembly)
+Translation unit:
+268 -> C:/Program Files/dotnet/packs/Microsoft.NETCore.App.Ref/9.0.6/ref/net9.0/System.Collections.Immutable.dll (reference assembly)
+Translation unit:
+269 -> C:/Program Files/dotnet/packs/Microsoft.NETCore.App.Ref/9.0.6/ref/net9.0/System.Collections.Specialized.dll (reference assembly)
+Translation unit:
+270 -> C:/Program Files/dotnet/packs/Microsoft.NETCore.App.Ref/9.0.6/ref/net9.0/System.Collections.dll (reference assembly)
+Translation unit:
+271 -> C:/Program Files/dotnet/packs/Microsoft.NETCore.App.Ref/9.0.6/ref/net9.0/System.ComponentModel.DataAnnotations.dll
+Translation unit:
+288 -> C:/Program Files/dotnet/packs/Microsoft.NETCore.App.Ref/9.0.6/ref/net9.0/System.Diagnostics.TextWriterTraceListener.dll (reference assembly)
+Translation unit:
+289 -> C:/Program Files/dotnet/packs/Microsoft.NETCore.App.Ref/9.0.6/ref/net9.0/System.Diagnostics.Tools.dll
+Translation unit:
+290 -> C:/Program Files/dotnet/packs/Microsoft.NETCore.App.Ref/9.0.6/ref/net9.0/System.Diagnostics.DiagnosticSource.dll (reference assembly)
+Translation unit:
+413 -> C:/Program Files/dotnet/packs/Microsoft.NETCore.App.Ref/9.0.6/ref/net9.0/System.Xml.XDocument.dll (reference assembly)
+Translation unit:
+310 -> C:/Program Files/dotnet/packs/Microsoft.NETCore.App.Ref/9.0.6/ref/net9.0/System.IO.IsolatedStorage.dll (reference assembly)
+Translation unit:
+421 -> C:/Program Files/dotnet/packs/Microsoft.NETCore.App.Ref/9.0.6/ref/net9.0/mscorlib.dll (reference assembly)
+Translation unit:
+420 -> C:/Program Files/dotnet/packs/Microsoft.NETCore.App.Ref/9.0.6/ref/net9.0/WindowsBase.dll
+Translation unit:
+419 -> C:/Program Files/dotnet/packs/Microsoft.NETCore.App.Ref/9.0.6/ref/net9.0/System.dll (reference assembly)
+Translation unit:
+418 -> C:/Program Files/dotnet/packs/Microsoft.NETCore.App.Ref/9.0.6/ref/net9.0/System.Xml.dll
+Translation unit:
+417 -> C:/Program Files/dotnet/packs/Microsoft.NETCore.App.Ref/9.0.6/ref/net9.0/System.Xml.XmlSerializer.dll (reference assembly)
+Translation unit:
+416 -> C:/Program Files/dotnet/packs/Microsoft.NETCore.App.Ref/9.0.6/ref/net9.0/System.Xml.XPath.XDocument.dll (reference assembly)
+Translation unit:
+415 -> C:/Program Files/dotnet/packs/Microsoft.NETCore.App.Ref/9.0.6/ref/net9.0/System.Xml.XmlDocument.dll
+Translation unit:
+414 -> C:/Program Files/dotnet/packs/Microsoft.NETCore.App.Ref/9.0.6/ref/net9.0/System.Xml.XPath.dll (reference assembly)
+Translation unit:
+422 -> C:/Program Files/dotnet/packs/Microsoft.NETCore.App.Ref/9.0.6/ref/net9.0/netstandard.dll
+Translation unit:
+412 -> C:/Program Files/dotnet/packs/Microsoft.NETCore.App.Ref/9.0.6/ref/net9.0/System.Xml.ReaderWriter.dll (reference assembly)
+Translation unit:
+411 -> C:/Program Files/dotnet/packs/Microsoft.NETCore.App.Ref/9.0.6/ref/net9.0/System.Xml.Serialization.dll
+Translation unit:
+410 -> C:/Program Files/dotnet/packs/Microsoft.NETCore.App.Ref/9.0.6/ref/net9.0/System.Xml.Linq.dll
+Translation unit:
+409 -> C:/Program Files/dotnet/packs/Microsoft.NETCore.App.Ref/9.0.6/ref/net9.0/System.Windows.dll
+Translation unit:
+408 -> C:/Program Files/dotnet/packs/Microsoft.NETCore.App.Ref/9.0.6/ref/net9.0/System.Web.dll
+Translation unit:
+407 -> C:/Program Files/dotnet/packs/Microsoft.NETCore.App.Ref/9.0.6/ref/net9.0/System.Web.HttpUtility.dll (reference assembly)
+Translation unit:
+406 -> C:/Program Files/dotnet/packs/Microsoft.NETCore.App.Ref/9.0.6/ref/net9.0/System.ValueTuple.dll
+Translation unit:
+405 -> C:/Program Files/dotnet/packs/Microsoft.NETCore.App.Ref/9.0.6/ref/net9.0/System.Transactions.Local.dll (reference assembly)
+Translation unit:
+404 -> C:/Program Files/dotnet/packs/Microsoft.NETCore.App.Ref/9.0.6/ref/net9.0/System.Transactions.dll
+Translation unit:
+317 -> C:/Program Files/dotnet/packs/Microsoft.NETCore.App.Ref/9.0.6/ref/net9.0/System.Linq.Expressions.dll (reference assembly)
+Translation unit:
+311 -> C:/Program Files/dotnet/packs/Microsoft.NETCore.App.Ref/9.0.6/ref/net9.0/System.IO.MemoryMappedFiles.dll (reference assembly)
+Translation unit:
+312 -> C:/Program Files/dotnet/packs/Microsoft.NETCore.App.Ref/9.0.6/ref/net9.0/System.IO.Pipelines.dll (reference assembly)
+Translation unit:
+313 -> C:/Program Files/dotnet/packs/Microsoft.NETCore.App.Ref/9.0.6/ref/net9.0/System.IO.Pipes.AccessControl.dll (reference assembly)
+Translation unit:
+314 -> C:/Program Files/dotnet/packs/Microsoft.NETCore.App.Ref/9.0.6/ref/net9.0/System.IO.Pipes.dll (reference assembly)
+Translation unit:
+315 -> C:/Program Files/dotnet/packs/Microsoft.NETCore.App.Ref/9.0.6/ref/net9.0/System.IO.dll
+Translation unit:
+316 -> C:/Program Files/dotnet/packs/Microsoft.NETCore.App.Ref/9.0.6/ref/net9.0/System.IO.UnmanagedMemoryStream.dll
+Translation unit:
+274 -> C:/Program Files/dotnet/packs/Microsoft.NETCore.App.Ref/9.0.6/ref/net9.0/System.ComponentModel.Primitives.dll (reference assembly)
+Translation unit:
+318 -> C:/Program Files/dotnet/packs/Microsoft.NETCore.App.Ref/9.0.6/ref/net9.0/System.Linq.Parallel.dll (reference assembly)
+Translation unit:
+319 -> C:/Program Files/dotnet/packs/Microsoft.NETCore.App.Ref/9.0.6/ref/net9.0/System.Linq.Queryable.dll (reference assembly)
+Translation unit:
+320 -> C:/Program Files/dotnet/packs/Microsoft.NETCore.App.Ref/9.0.6/ref/net9.0/System.Linq.dll (reference assembly)
+Translation unit:
+321 -> C:/Program Files/dotnet/packs/Microsoft.NETCore.App.Ref/9.0.6/ref/net9.0/System.Memory.dll (reference assembly)
+Translation unit:
+322 -> C:/Program Files/dotnet/packs/Microsoft.NETCore.App.Ref/9.0.6/ref/net9.0/System.Net.Http.Json.dll (reference assembly)
+Translation unit:
+323 -> C:/Program Files/dotnet/packs/Microsoft.NETCore.App.Ref/9.0.6/ref/net9.0/System.Net.Http.dll (reference assembly)
+Translation unit:
+272 -> C:/Program Files/dotnet/packs/Microsoft.NETCore.App.Ref/9.0.6/ref/net9.0/System.ComponentModel.Annotations.dll (reference assembly)
+Translation unit:
+273 -> C:/Program Files/dotnet/packs/Microsoft.NETCore.App.Ref/9.0.6/ref/net9.0/System.ComponentModel.EventBasedAsync.dll (reference assembly)
+Translation unit:
+872 -> D:/VisualStudioSRC/prn212/DemoDelegate/Program.cs
+cov-emit-cs invocation time (seconds): 3
+cov-translate invocation time (seconds): 4
+cov-build invocation time (seconds): 704
+Translation unit:
+873 -> D:/VisualStudioSRC/prn212/DemoDelegate/obj/Debug/net8.0/DemoDelegate.GlobalUsings.g.cs
+cov-emit-cs invocation time (seconds): 3
+cov-translate invocation time (seconds): 4
+cov-build invocation time (seconds): 704
+Translation unit:
+874 -> D:/VisualStudioSRC/prn212/DemoDelegate/obj/Debug/net8.0/.NETCoreApp,Version=v8.0.AssemblyAttributes.cs
+cov-emit-cs invocation time (seconds): 3
+cov-translate invocation time (seconds): 4
+cov-build invocation time (seconds): 704
+Translation unit:
+875 -> D:/VisualStudioSRC/prn212/DemoDelegate/obj/Debug/net8.0/DemoDelegate.AssemblyInfo.cs
+cov-emit-cs invocation time (seconds): 3
+cov-translate invocation time (seconds): 4
+cov-build invocation time (seconds): 704
+Translation unit:
+720 -> D:/VisualStudioSRC/prn212/HelloWPF/obj/Debug/net8.0-windows/HelloWPF_rjrypkgv_wpftmp.GlobalUsings.g.cs
+cov-emit-cs invocation time (seconds): 2
+cov-translate invocation time (seconds): 3
+cov-build invocation time (seconds): 163
+Translation unit:
+719 -> D:/VisualStudioSRC/prn212/HelloWPF/obj/Debug/net8.0-windows/HelloWPF_rjrypkgv_wpftmp.AssemblyInfo.cs
+cov-emit-cs invocation time (seconds): 2
+cov-translate invocation time (seconds): 3
+cov-build invocation time (seconds): 163

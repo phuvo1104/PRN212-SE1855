@@ -7,13 +7,22 @@
         mc:Ignorable="d"
         Title="LoginWindow" Height="450" Width="800">
     <Grid>
-        <Label Content="dang nhap he thong " HorizontalAlignment="Left" Margin="250,54,0,0" VerticalAlignment="Top" Height="40" Width="235" FontSize="22"/>
+        <Label Content="Dang Nhap He Thong" HorizontalAlignment="Left" Margin="264,77,0,0" VerticalAlignment="Top" Height="32">
+            <Label.Background>
+                <LinearGradientBrush>
+                    <GradientStop Color="Purple" Offset="0.0"></GradientStop>
+                    <GradientStop Color="Yellow" Offset="1.0"></GradientStop>
+                    <GradientStop Color="Red" Offset="0.5"></GradientStop>
+                </LinearGradientBrush>
+            </Label.Background>
+        </Label>
+
         <Label Content="email" HorizontalAlignment="Left" Margin="106,153,0,0" VerticalAlignment="Top"/>
         <Label Content="PassWord" HorizontalAlignment="Left" Margin="98,194,0,0" VerticalAlignment="Top" Height="40" RenderTransformOrigin="-0.406,0.251"/>
-        <TextBlock HorizontalAlignment="Left" Margin="180,159,0,0" TextWrapping="Wrap" Text="admin@companyname.com" VerticalAlignment="Top" Width="175"/>
-        <PasswordBox HorizontalAlignment="Left" Margin="185,201,0,0" VerticalAlignment="Top" Width="120"/>
-        <Button Content="thoat" HorizontalAlignment="Left" Margin="395,159,0,0" VerticalAlignment="Top"/>
-        <Button Content="dang nhap" HorizontalAlignment="Left" Margin="395,199,0,0" VerticalAlignment="Top"/>
+        <TextBlock x:Name="TxtEmail" HorizontalAlignment="Left" Margin="180,159,0,0" TextWrapping="Wrap" Text="admin@companyname.com" VerticalAlignment="Top" Width="175"/>
+        <PasswordBox  x:Name="TxtPassword" HorizontalAlignment="Left" Margin="185,201,0,0" VerticalAlignment="Top" Width="120"/>
+        <Button x:Name="buttonthoat" Content="thoat" HorizontalAlignment="Left" Margin="395,159,0,0" VerticalAlignment="Top" Click="Button_Click_thoat"/>
+        <Button x:Name="buttondangnhap" Content="dang nhap" HorizontalAlignment="Left" Margin="395,199,0,0" VerticalAlignment="Top" Click="Button_Click_dangnhap"/>
 
 
     </Grid>

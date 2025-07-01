@@ -102,6 +102,7 @@ Using cached template compiler configuration instance D:/VisualStudioSRC/prn212/
 Using cached template compiler configuration instance D:/VisualStudioSRC/prn212/cov-int/emit/BOSS/config/cc40b611a331ab6eaa51c1166a205979/coverity_config.xml
 Using cached template compiler configuration instance D:/VisualStudioSRC/prn212/cov-int/emit/BOSS/config/cc40b611a331ab6eaa51c1166a205979/coverity_config.xml
 Using cached template compiler configuration instance D:/VisualStudioSRC/prn212/cov-int/emit/BOSS/config/cc40b611a331ab6eaa51c1166a205979/coverity_config.xml
+<<<<<<< HEAD
 Using cached template compiler configuration instance D:/VisualStudioSRC/prn212/cov-int/emit/BOSS/config/cc40b611a331ab6eaa51c1166a205979/coverity_config.xml
 Using cached template compiler configuration instance D:/VisualStudioSRC/prn212/cov-int/emit/BOSS/config/cc40b611a331ab6eaa51c1166a205979/coverity_config.xml
 Using cached template compiler configuration instance D:/VisualStudioSRC/prn212/cov-int/emit/BOSS/config/cc40b611a331ab6eaa51c1166a205979/coverity_config.xml
@@ -132,3 +133,5 @@ Using cached template compiler configuration instance D:/VisualStudioSRC/prn212/
 Using cached template compiler configuration instance D:/VisualStudioSRC/prn212/cov-int/emit/BOSS/config/cc40b611a331ab6eaa51c1166a205979/coverity_config.xml
 Using cached template compiler configuration instance D:/VisualStudioSRC/prn212/cov-int/emit/BOSS/config/cc40b611a331ab6eaa51c1166a205979/coverity_config.xml
 Using cached template compiler configuration instance D:/VisualStudioSRC/prn212/cov-int/emit/BOSS/config/cc40b611a331ab6eaa51c1166a205979/coverity_config.xml
+=======
+>>>>>>> b91cec196ba79fde0d160a1d0bf450e1db1cc5ae

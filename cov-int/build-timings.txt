@@ -2,12 +2,17 @@
 # Command Line: D:\cov-analysis-win64-2024.6.1\bin\cov-build.exe --dir cov-int msbuild PRN212-SE1855.sln /t:Rebuild
 timer                                    ms      calls
 ------------------------------------------------------
+<<<<<<< HEAD
 cov-build                            153156          1
+=======
+cov-build                            704078          1
+>>>>>>> b91cec196ba79fde0d160a1d0bf450e1db1cc5ae
   create_or_open emit DB                  0          1
     open emit DB                          0          1
   add_string_to_table                    16          8
   addEmitFileName                         0          1
   addEnvironmentVars                      0          1
+<<<<<<< HEAD
     add_string_to_table                   0         96
   Prepare capture                         0          1
   parse_xml_config_file                  16          2
@@ -33,3 +38,30 @@ generate_generic_compiler_map          1297          1
 handle_derived_compiler                  15         16
 SecurityDA                            16844          1
 TUInfo::getPrimarySFRow                   0        550
+=======
+    add_string_to_table                   0         95
+  Prepare capture                         0          1
+  parse_xml_config_file                   0          2
+  Running build command              642656          1
+  generate_generic_compiler_map        1547          1
+    handle_derived_compiler             109         16
+  SecurityDA                          58016          1
+  TUInfo::getPrimarySFRow                32        550
+  (left over)                          1811
+
+activity                                 ms      calls
+------------------------------------------------------
+cov-build                            704078          1
+parse_xml_config_file                     0          2
+create_or_open emit DB                    0          1
+open emit DB                              0          1
+add_string_to_table                      16        103
+addEmitFileName                           0          1
+addEnvironmentVars                        0          1
+Prepare capture                           0          1
+Running build command                642656          1
+generate_generic_compiler_map          1547          1
+handle_derived_compiler                 109         16
+SecurityDA                            58016          1
+TUInfo::getPrimarySFRow                  32        550
+>>>>>>> b91cec196ba79fde0d160a1d0bf450e1db1cc5ae

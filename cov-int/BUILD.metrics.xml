@@ -5,7 +5,11 @@
 <metrics>
     <metric>
         <name>time</name>
+<<<<<<< HEAD
         <value>154</value>
+=======
+        <value>704</value>
+>>>>>>> b91cec196ba79fde0d160a1d0bf450e1db1cc5ae
     </metric>
     <metric>
         <name>args</name>
@@ -61,11 +65,19 @@
     </metric>
     <metric>
         <name>failures</name>
+<<<<<<< HEAD
         <value>0</value>
     </metric>
     <metric>
         <name>successes</name>
         <value>154</value>
+=======
+        <value>1</value>
+    </metric>
+    <metric>
+        <name>successes</name>
+        <value>177</value>
+>>>>>>> b91cec196ba79fde0d160a1d0bf450e1db1cc5ae
     </metric>
     <metric>
         <name>recoverable-errors</name>
@@ -85,7 +97,11 @@
     </metric>
     <metric>
         <name>security-da-ms</name>
+<<<<<<< HEAD
         <value>16860</value>
+=======
+        <value>58032</value>
+>>>>>>> b91cec196ba79fde0d160a1d0bf450e1db1cc5ae
     </metric>
     <metric>
         <name>buildcmd</name>

@@ -1,4 +1,4 @@
-﻿using DataAccessLayer_EF.Models;
+﻿using BusinessObjects_EF;
 using System;
 using System.Collections.Generic;
 using System.Linq;
@@ -9,10 +9,11 @@ namespace DataAccessLayer_EF
 {
     public class AccountMemberDAO
     {
-        MyStoreContext context = new MyStoreContext();
-        public AccountMember GetAccountMemberByEmailAndPassword(string email, string password)
+        MyStoreContext context=new MyStoreContext();
+        public AccountMember Login(string email,string pwd)
         {
-            return context.AccountMembers.FirstOrDefault(am => am.EmailAddress == email && am.MemberPassword == password);
+            return context.AccountMembers.FirstOrDefault(x => x.EmailAddress == email
+                                                        && x.MemberPassword == pwd);
         }
     }
 }

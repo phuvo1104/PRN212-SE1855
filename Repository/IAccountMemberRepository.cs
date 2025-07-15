@@ -5,9 +5,9 @@ using System.Linq;
 using System.Text;
 using System.Threading.Tasks;
 
-namespace Services_EF
+namespace Repositories_EF
 {
-    public interface IAccountMemberService
+    public interface IAccountMemberRepository
     {
         public AccountMember Login(string email, string pwd);
     }

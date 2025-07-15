@@ -1,17 +1,23 @@
-﻿using DataAccessLayer_EF.Models;
+﻿using BusinessObjects_EF;
+using Repositories_EF;
 using System;
 using System.Collections.Generic;
 using System.Linq;
 using System.Text;
 using System.Threading.Tasks;
 
-namespace services_EF
+namespace Services_EF
 {
-    internal class AccountMemberService : IAccountMemberService
+    public class AccountMemberService : IAccountMemberService
     {
-        public AccountMember GetAccountMemberByEmailAndPassword(string email, string password)
+        IAccountMemberRepository repository;
+        public AccountMemberService()
         {
-            throw new NotImplementedException();
+            repository = new AccountMemberRepository();
+        }
+        public AccountMember Login(string email, string pwd)
+        {
+           return repository.Login(email, pwd);
         }
     }
 }

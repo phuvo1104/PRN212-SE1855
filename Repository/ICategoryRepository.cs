@@ -5,10 +5,10 @@ using System.Linq;
 using System.Text;
 using System.Threading.Tasks;
 
-namespace Services_EF
+namespace Repositories_EF
 {
-    public interface IAccountMemberService
+    public interface ICategoryRepository
     {
-        public AccountMember Login(string email, string pwd);
+        public List<Category> GetCategories();
     }
 }

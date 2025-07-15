@@ -7,8 +7,9 @@ using System.Threading.Tasks;
 
 namespace Services_EF
 {
-    public interface IAccountMemberService
+    public interface IProductService
     {
-        public AccountMember Login(string email, string pwd);
+        public List<Product> GetProducts();
+        public List<Product> GetProductsByCategory(int cateId);
     }
 }

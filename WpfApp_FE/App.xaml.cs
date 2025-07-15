@@ -2,7 +2,7 @@
 using System.Data;
 using System.Windows;
 
-namespace WpfApp_FE
+namespace WpfApp_EF
 {
     /// <summary>
     /// Interaction logic for App.xaml
